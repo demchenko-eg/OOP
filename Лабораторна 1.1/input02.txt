@@ -1,0 +1,500 @@
+                 Parallelogram    9    1    5 
+                 Parallelogram    2   19   10 
+                        Circle   24 
+                 Parallelogram   24   17   17 
+                      Triangle   18    9   13 
+                 Parallelogram   22   14   14 
+                        Circle   14 
+                 Parallelogram   24    6    0 
+                 Parallelogram   14   17   12 
+                     Rectangle   19   11 
+                      Triangle   24   19   22 
+                     Rectangle   17    3 
+                     Rectangle   16    8 
+                        Circle   21 
+                        Circle   19 
+                     Rectangle   21    0 
+                      Triangle   13   16   21 
+                       Trapeze    3   22   17   10 
+                        Circle   19 
+                 Parallelogram   22   14   25 
+                       Trapeze   17    5   12   25 
+                      Triangle    0   23   25 
+                 Parallelogram   17    6    8 
+                     Rectangle   14    3 
+                        Circle   20 
+                        Circle    3 
+                        Circle   22 
+                     Rectangle   21   11 
+                        Circle   15 
+                     Rectangle    0   17 
+                       Trapeze    0    3    7    3 
+                     Rectangle   14    0 
+                     Rectangle   13   10 
+                       Trapeze   25   23   23   23 
+                     Rectangle   24    0 
+                 Parallelogram   18   21   12 
+                      Triangle   24   16    8 
+                 Parallelogram   13    9    7 
+                       Trapeze    1   16   20    3 
+                        Circle   15 
+                       Trapeze    7    4   11    7 
+                     Rectangle   13   20 
+                 Parallelogram    8    7   24 
+                        Circle    3 
+                      Triangle   21    9   21 
+                 Parallelogram    1   24    5 
+                       Trapeze   24   11   23   16 
+                        Circle   12 
+                       Trapeze    6   12   17   19 
+                       Trapeze    1    0   22   18 
+                        Circle   13 
+                       Trapeze   14    6    5   20 
+                      Triangle    3    8    2 
+                     Rectangle   25   19 
+                      Triangle   14   12    2 
+                     Rectangle   20   25 
+                 Parallelogram   15    3   20 
+                     Rectangle    7   18 
+                 Parallelogram    5   17   16 
+                       Trapeze    0    2   11   22 
+                 Parallelogram   22   17   23 
+                        Circle   20 
+                     Rectangle   19    6 
+                        Circle   21 
+                 Parallelogram    3    0   14 
+                      Triangle    9   23   25 
+                     Rectangle    5    1 
+                     Rectangle   22    0 
+                        Circle   12 
+                       Trapeze   14    0    3   13 
+                     Rectangle    0    5 
+                       Trapeze    4   19   20   13 
+                      Triangle    8    1    5 
+                      Triangle    8   13   11 
+                 Parallelogram   17   16    8 
+                       Trapeze   11   14   22   20 
+                     Rectangle    9    1 
+                        Circle   15 
+                        Circle   23 
+                       Trapeze    4   21   10   10 
+                     Rectangle   17    4 
+                 Parallelogram    5   25   13 
+                     Rectangle    5    3 
+                       Trapeze    1   13    4   20 
+                     Rectangle    4   22 
+                       Trapeze   13    0   12    3 
+                       Trapeze    4    5   14   13 
+                 Parallelogram    2    8   20 
+                     Rectangle   12    6 
+                        Circle    7 
+                        Circle   12 
+                       Trapeze    3    9    9   15 
+                 Parallelogram   19   10    6 
+                        Circle   12 
+                       Trapeze    2   13    1   23 
+                      Triangle    5   17    1 
+                     Rectangle   12   15 
+                      Triangle   13   21   24 
+                      Triangle    0    0    3 
+                        Circle    5 
+                      Triangle   19   14   14 
+                        Circle   24 
+                 Parallelogram   22    7   19 
+                     Rectangle    2    9 
+                 Parallelogram   19   25    7 
+                     Rectangle    1   16 
+                      Triangle    3   19    5 
+                        Circle   14 
+                     Rectangle   16   24 
+                      Triangle   23   16    6 
+                     Rectangle   22   10 
+                       Trapeze   21    8    6    0 
+                        Circle   21 
+                     Rectangle    1   16 
+                       Trapeze   22   18    3    0 
+                     Rectangle   18    9 
+                     Rectangle   11   12 
+                      Triangle   12   11   14 
+                      Triangle    8   15   20 
+                 Parallelogram   18    2    6 
+                        Circle   15 
+                        Circle   25 
+                      Triangle    9   23    7 
+                        Circle   18 
+                        Circle   16 
+                 Parallelogram    2   17    9 
+                 Parallelogram   14   15    3 
+                       Trapeze    5    6   20    0 
+                        Circle    1 
+                       Trapeze   14   21   16   12 
+                     Rectangle    7    1 
+                 Parallelogram    5   15   22 
+                       Trapeze   14   25   25   14 
+                       Trapeze   21   11   10   13 
+                        Circle   18 
+                      Triangle   10    7   20 
+                      Triangle   18   11   13 
+                 Parallelogram   11   12   22 
+                 Parallelogram    9    1   15 
+                     Rectangle   19   18 
+                      Triangle   20    3   20 
+                 Parallelogram    5    1    8 
+                 Parallelogram   15   13   24 
+                        Circle   24 
+                      Triangle   10    8    9 
+                 Parallelogram   11   22    0 
+                 Parallelogram   18   22   11 
+                      Triangle   17    8   15 
+                        Circle    9 
+                      Triangle   25    1    3 
+                        Circle   24 
+                     Rectangle   20   10 
+                 Parallelogram    6   13   17 
+                       Trapeze   22    3    0    9 
+                     Rectangle   12    4 
+                     Rectangle   10    2 
+                     Rectangle   22    0 
+                 Parallelogram   19   25    2 
+                       Trapeze   20   13   25    5 
+                       Trapeze   20   18   10   21 
+                        Circle    6 
+                      Triangle   20   19   19 
+                        Circle    3 
+                 Parallelogram   15    5    2 
+                        Circle   15 
+                     Rectangle    6   14 
+                       Trapeze   18   18   18    7 
+                 Parallelogram   18    4   22 
+                       Trapeze    2    6   23    5 
+                     Rectangle   24    7 
+                     Rectangle    9    8 
+                        Circle   11 
+                 Parallelogram   23    9   11 
+                     Rectangle    0   14 
+                        Circle   25 
+                        Circle   13 
+                       Trapeze   13    1   15    9 
+                     Rectangle    7    1 
+                     Rectangle    5   18 
+                       Trapeze    7    1    0   22 
+                      Triangle   22   21   17 
+                     Rectangle   12   22 
+                      Triangle   12    1   14 
+                       Trapeze    2    7   23    5 
+                      Triangle    0   19   12 
+                 Parallelogram   11   14   21 
+                       Trapeze   10   25    7   14 
+                 Parallelogram   17   21   21 
+                 Parallelogram   11    4   21 
+                       Trapeze   25   22    1    4 
+                 Parallelogram    3   23    3 
+                 Parallelogram   24    5   20 
+                       Trapeze    7   18   25   11 
+                      Triangle   19   19   23 
+                        Circle   20 
+                     Rectangle   13   19 
+                      Triangle   12   15   20 
+                     Rectangle    5   25 
+                      Triangle   13    4    4 
+                      Triangle    4   17    4 
+                      Triangle   18   18    9 
+                 Parallelogram   11   25   10 
+                        Circle    6 
+                     Rectangle   10    8 
+                     Rectangle   11   15 
+                       Trapeze    3   15   22   23 
+                     Rectangle   13   13 
+                      Triangle   15    4   22 
+                        Circle   16 
+                     Rectangle   25   14 
+                       Trapeze    8   15   10   14 
+                     Rectangle   23   21 
+                      Triangle    3   22   13 
+                       Trapeze   18    0   25   10 
+                        Circle    2 
+                        Circle    5 
+                      Triangle    5   12    1 
+                 Parallelogram   12   21   16 
+                        Circle    6 
+                        Circle    0 
+                     Rectangle   15   15 
+                       Trapeze   15   13    3   13 
+                      Triangle   15   21   15 
+                      Triangle   14   22    5 
+                      Triangle   18   23   24 
+                      Triangle    0    1    2 
+                 Parallelogram    5    2   15 
+                     Rectangle   23    8 
+                     Rectangle   10   24 
+                        Circle   24 
+                     Rectangle   12   15 
+                      Triangle   18   19    2 
+                       Trapeze   19   10    2    0 
+                     Rectangle   21   17 
+                      Triangle   11    8   14 
+                        Circle    4 
+                      Triangle    6   22    1 
+                        Circle    2 
+                 Parallelogram   25   10   22 
+                 Parallelogram   14   16   24 
+                       Trapeze    8   19   22    4 
+                        Circle   13 
+                      Triangle   18   13   16 
+                     Rectangle   16   23 
+                     Rectangle    7    4 
+                        Circle    2 
+                     Rectangle   12   11 
+                 Parallelogram    5   17    3 
+                     Rectangle   25   11 
+                      Triangle    3   17    5 
+                     Rectangle   21   15 
+                        Circle   10 
+                       Trapeze    2   14    8   11 
+                        Circle    6 
+                      Triangle   20    8   21 
+                 Parallelogram   19   11   20 
+                        Circle    5 
+                      Triangle    9   17    8 
+                      Triangle    0    1   22 
+                     Rectangle   24    9 
+                        Circle   13 
+                      Triangle   22   22    6 
+                 Parallelogram   18   16   18 
+                      Triangle   16   21   13 
+                 Parallelogram   20   20   22 
+                     Rectangle    8   25 
+                 Parallelogram    5    0   20 
+                        Circle    3 
+                      Triangle    0   22    0 
+                      Triangle   21    3   14 
+                       Trapeze   14    6    5   12 
+                      Triangle    4   13   18 
+                 Parallelogram    4    1   25 
+                 Parallelogram   15    4   23 
+                        Circle   16 
+                 Parallelogram   13   19    5 
+                        Circle    3 
+                     Rectangle    0    1 
+                     Rectangle   18   14 
+                     Rectangle   18    0 
+                 Parallelogram    3   20    5 
+                     Rectangle    3   16 
+                      Triangle   10    5   24 
+                      Triangle    1    7    5 
+                     Rectangle    4   14 
+                       Trapeze   15    9    4   18 
+                     Rectangle    7    6 
+                      Triangle   23   18   24 
+                 Parallelogram   25    8   15 
+                     Rectangle    3    0 
+                        Circle   20 
+                     Rectangle   23   11 
+                        Circle   15 
+                 Parallelogram   15    9    6 
+                       Trapeze   17   12   11    6 
+                      Triangle   10   19    5 
+                       Trapeze    6   25   15    4 
+                       Trapeze    9   10   24    6 
+                 Parallelogram   23   15    2 
+                        Circle   18 
+                 Parallelogram   18   11   24 
+                        Circle    3 
+                     Rectangle   14    8 
+                 Parallelogram   15    8   13 
+                        Circle   23 
+                       Trapeze   12   14   10   24 
+                     Rectangle   13   17 
+                 Parallelogram   22   13    6 
+                        Circle   16 
+                     Rectangle    1    0 
+                 Parallelogram   19    2   20 
+                        Circle    7 
+                        Circle   19 
+                        Circle   19 
+                        Circle   16 
+                      Triangle    4    2    3 
+                 Parallelogram   21   20   16 
+                       Trapeze    5    7    9   15 
+                       Trapeze   14   21    0   21 
+                       Trapeze   24   21   23   23 
+                      Triangle   23   20   17 
+                     Rectangle   15    5 
+                 Parallelogram    6    2   21 
+                       Trapeze   10   23   19   22 
+                        Circle   22 
+                       Trapeze   17    1    4   17 
+                 Parallelogram   22   21   10 
+                 Parallelogram   13    3   24 
+                        Circle   18 
+                        Circle   18 
+                      Triangle    7    3   25 
+                 Parallelogram    9   10    6 
+                      Triangle   17    1    5 
+                        Circle   17 
+                 Parallelogram    6   17   14 
+                       Trapeze   14    9   12   25 
+                 Parallelogram   16   25   21 
+                       Trapeze   24   20    0    6 
+                      Triangle   13   17    2 
+                      Triangle    1    0   14 
+                        Circle   22 
+                     Rectangle   20   24 
+                     Rectangle    7    0 
+                     Rectangle   20    9 
+                     Rectangle    8    1 
+                       Trapeze   15   17   15   14 
+                        Circle   23 
+                 Parallelogram   18   12    3 
+                      Triangle   20   14   18 
+                 Parallelogram   24   20   25 
+                       Trapeze    3   13    9    7 
+                 Parallelogram   22   21   11 
+                     Rectangle    3    0 
+                        Circle   14 
+                        Circle   12 
+                        Circle   20 
+                     Rectangle   10    9 
+                     Rectangle   25    5 
+                      Triangle   23   11   21 
+                       Trapeze   13   21    4   20 
+                 Parallelogram    6    9    2 
+                 Parallelogram   19   18    7 
+                       Trapeze   15    7   25    4 
+                      Triangle   22   12   23 
+                 Parallelogram   21   20    4 
+                        Circle   25 
+                 Parallelogram    2    9   15 
+                       Trapeze   12    0    5   20 
+                 Parallelogram   13    6    7 
+                     Rectangle    4    1 
+                       Trapeze    3    7   14   15 
+                     Rectangle   17   22 
+                 Parallelogram   10    7    2 
+                       Trapeze   14    7   24   18 
+                        Circle    7 
+                        Circle    8 
+                        Circle    9 
+                      Triangle    3   21   13 
+                 Parallelogram   17    7   12 
+                     Rectangle    2   15 
+                       Trapeze   24    1    7    6 
+                 Parallelogram    9   20   16 
+                     Rectangle    7   15 
+                 Parallelogram   17   10    8 
+                 Parallelogram   22   24   10 
+                     Rectangle   15    2 
+                        Circle    7 
+                       Trapeze   22   21   14    8 
+                        Circle    1 
+                     Rectangle   11    2 
+                      Triangle    2    4    3 
+                      Triangle   20   23   15 
+                       Trapeze    0   16   19    1 
+                        Circle   19 
+                       Trapeze   13    9   11   11 
+                     Rectangle   13    3 
+                     Rectangle    2   12 
+                     Rectangle    4   25 
+                        Circle    1 
+                      Triangle    7   24   20 
+                     Rectangle    3    5 
+                      Triangle   18    3   13 
+                       Trapeze   24   17   20   16 
+                       Trapeze    7   13   18    3 
+                 Parallelogram    5   14    4 
+                      Triangle    3    6   17 
+                 Parallelogram   14    2   10 
+                        Circle   23 
+                        Circle   22 
+                        Circle   12 
+                 Parallelogram    6    6   13 
+                       Trapeze   14    9   17   16 
+                        Circle    1 
+                        Circle   13 
+                       Trapeze   18   24   10   11 
+                     Rectangle    5   12 
+                 Parallelogram    3    0   25 
+                 Parallelogram   10    5    6 
+                 Parallelogram   18   25   12 
+                     Rectangle    1   13 
+                       Trapeze    4   14   11   23 
+                        Circle   22 
+                      Triangle   13    7   24 
+                 Parallelogram   23    6   19 
+                     Rectangle   16   16 
+                     Rectangle    4   15 
+                     Rectangle   18   25 
+                 Parallelogram    9    8   13 
+                        Circle   17 
+                        Circle   21 
+                 Parallelogram    9   16    8 
+                      Triangle   23   13    4 
+                 Parallelogram   14    7   23 
+                 Parallelogram    0   13   18 
+                        Circle   11 
+                      Triangle    1   22   10 
+                      Triangle   22    0   11 
+                 Parallelogram   23    9   22 
+                     Rectangle   10   23 
+                       Trapeze    0   12    4   15 
+                      Triangle    4    9   14 
+                 Parallelogram    3   14    6 
+                       Trapeze    2   21    9   13 
+                      Triangle    4   19   25 
+                       Trapeze   14   16    7   11 
+                     Rectangle   15   20 
+                      Triangle   18   15   24 
+                 Parallelogram    3   17   17 
+                     Rectangle    4   24 
+                     Rectangle    3    9 
+                 Parallelogram   11    0   21 
+                        Circle    6 
+                 Parallelogram   22    5    9 
+                     Rectangle   25   19 
+                       Trapeze    6   25   22    2 
+                      Triangle   20   10   16 
+                        Circle    9 
+                     Rectangle    0    6 
+                 Parallelogram    6    0   12 
+                     Rectangle   15    9 
+                        Circle   15 
+                        Circle   21 
+                     Rectangle   12   20 
+                      Triangle    2   19    1 
+                     Rectangle   24    2 
+                        Circle   19 
+                      Triangle    5    6   10 
+                      Triangle   21    5   11 
+                        Circle   16 
+                      Triangle   20   13   21 
+                     Rectangle   10    5 
+                       Trapeze   22   15    2   16 
+                      Triangle   23   23   20 
+                      Triangle   15   23    1 
+                       Trapeze   11   10    5    2 
+                 Parallelogram    1    1   17 
+                 Parallelogram   16   21   16 
+                 Parallelogram   15    5   13 
+                       Trapeze    7    7    2   22 
+                 Parallelogram    5   25    8 
+                       Trapeze   18   11   20   18 
+                       Trapeze   17    2   20   25 
+                     Rectangle   22   14 
+                 Parallelogram   17   21    3 
+                        Circle   16 
+                     Rectangle   24    0 
+                     Rectangle   16   11 
+                       Trapeze   13   18    7   19 
+                 Parallelogram    8    7    6 
+                       Trapeze    8    2    3    7 
+                       Trapeze   22    7    6   10 
+                     Rectangle   14   13 
+                      Triangle   13    8   17 
+                       Trapeze   22    3   16    0 
+                     Rectangle   21   25 
+                       Trapeze   17   25   11   13 
+                        Circle   24 
+                 Parallelogram   25   24   24 
+                     Rectangle   13   14 
+                       Trapeze   22    6   20   19 
