@@ -1,0 +1,7232 @@
+input01.txt
+Figure: Cone
+Dimension: 3
+Side surface area: 1262.9046168321818
+Base area: 1256.6370614359173
+Volume: 837.7580409572781
+Height: 2.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 46.0
+Area: 148.21902484249284
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 315.0
+Base area: 190.9586015344687
+Volume: 636.5286717815623
+Height: 10.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 32.0
+Area: 55.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 7234.56
+Base area: None
+Volume: 57876.479999999996
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 66.0
+Area: 525.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 69.0
+Area: 224.29402577866404
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 64.0
+Area: 252.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 824.3314036326665
+Base area: 706.8583470577034
+Volume: 2120.5750411731105
+Height: 9.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 12.56
+Area: 12.56
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 48.0
+Area: 209.64970784620715
+
+Figure: Circle
+Dimension: 2
+Petimeter: 50.24
+Area: 200.96
+
+Figure: Circle
+Dimension: 2
+Petimeter: 100.48
+Area: 803.84
+
+Figure: Cone
+Dimension: 3
+Side surface area: 89.4112943921649
+Base area: 28.274333882308138
+Volume: 84.82300164692441
+Height: 9.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 189.0
+Base area: 35.074028853269766
+Volume: 163.6788013152589
+Height: 14.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 43.0
+Area: 209.5335220794038
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 70.0
+Area: 264.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 251.32741228718345
+Base area: 201.06192982974676
+Volume: 402.1238596594935
+Height: 6.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 78.0
+Area: 308.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 56.0
+Area: 137.22472444862115
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 80.0
+Area: 90.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 975.9791288536534
+Base area: 804.247719318987
+Volume: 2948.908304169619
+Height: 11.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 720.0
+Height: None
+Total surface area: 538.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 16.0
+Area: 7.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 62.0
+Area: 234.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 76.0
+Area: 20.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 69.08
+Area: 379.94
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 480.0
+Height: None
+Total surface area: 392.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1460.3844750720268
+Base area: 1385.4423602330987
+Volume: 3232.698840543897
+Height: 7.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 52.0
+Area: 25.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 115.0
+Height: None
+Total surface area: 286.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 803.84
+Base area: None
+Volume: 2143.5733333333333
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 78.0
+Area: 350.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 615.44
+Base area: None
+Volume: 1436.0266666666666
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 72.0
+Area: 315.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 30.0
+Area: 54.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 264.0
+Base area: 27.712812921102035
+Volume: 203.22729475474824
+Height: 22.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 5538.96
+Base area: None
+Volume: 38772.72
+Height: None
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 40.0
+Area: 75.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 42.0
+Area: 51.07714753194426
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 862.5
+Base area: 270.6329386826371
+Volume: 2074.8525299002176
+Height: 23.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 780.0
+Height: None
+Total surface area: 718.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 138.16
+Area: 1519.76
+
+Figure: Cone
+Dimension: 3
+Side surface area: 217.70126396975994
+Base area: 153.93804002589985
+Volume: 359.18876006043297
+Height: 7.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 53.0
+Area: 217.1640924636381
+
+Figure: Circle
+Dimension: 2
+Petimeter: 131.88
+Area: 1384.74
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 68.0
+Area: 215.35954156446644
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 41.0
+Area: 24.13431742929097
+
+Figure: Cone
+Dimension: 3
+Side surface area: 433.00447435043264
+Base area: 380.132711084365
+Volume: 760.26542216873
+Height: 6.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 119.32000000000001
+Area: 1133.54
+
+Figure: Ball
+Dimension: 3
+Side surface area: 2122.64
+Base area: None
+Volume: 9198.106666666667
+Height: None
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 15.0
+Base area: 1.7320508075688772
+Volume: 2.8867513459481287
+Height: 5.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 36.0
+Area: 65.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 49.0
+Area: 51.847733798113104
+
+Figure: Ball
+Dimension: 3
+Side surface area: 7850.0
+Base area: None
+Volume: 65416.666666666664
+Height: None
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 38.0
+Area: 124.80420954527777
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 3360.0
+Height: None
+Total surface area: 1432.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 72.0
+Base area: 27.712812921102035
+Volume: 55.42562584220407
+Height: 6.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 803.84
+Base area: None
+Volume: 2143.5733333333333
+Height: None
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 78.0
+Base area: 73.17914661978506
+Volume: 97.57219549304673
+Height: 4.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 7850.0
+Base area: None
+Volume: 65416.666666666664
+Height: None
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 46.0
+Area: 130.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 96.0
+Area: 575.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 297.0
+Base area: 209.57814771583415
+Volume: 628.7344431475024
+Height: 9.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 2202.346080087268
+Base area: 1661.9025137490005
+Volume: 11079.350091660002
+Height: 20.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 56.0
+Area: 101.55553349809672
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 31.0
+Area: 50.333264348738595
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2394.0
+Height: None
+Total surface area: 1278.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 144.44
+Area: 1661.0600000000002
+
+Figure: Circle
+Dimension: 2
+Petimeter: 87.92
+Area: 615.44
+
+Figure: Circle
+Dimension: 2
+Petimeter: 75.36
+Area: 452.16
+
+Figure: Ball
+Dimension: 3
+Side surface area: 1519.76
+Base area: None
+Volume: 5572.453333333333
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 90.0
+Area: 225.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 74.0
+Area: 312.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2376.0
+Height: None
+Total surface area: 1272.0
+
+input02.txt
+Figure: Cone
+Dimension: 3
+Side surface area: 724.1762903163042
+Base area: 452.3893421169302
+Volume: 2261.946710584651
+Height: 15.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 5538.96
+Base area: None
+Volume: 38772.72
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 60.0
+Area: 200.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 480.0
+Height: None
+Total surface area: 424.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 40.0
+Area: 100.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 46.0
+Area: 102.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 75.36
+Area: 452.16
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2717.0
+Height: None
+Total surface area: 1198.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 480.0
+Height: None
+Total surface area: 604.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1564.0020760775187
+Base area: 1385.4423602330987
+Volume: 5079.955320854695
+Height: 11.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 75.36
+Area: 452.16
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 58.0
+Area: 54.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 38.0
+Area: 76.65878945039506
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 52.0
+Area: 229.82615652319083
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 189.0
+Base area: 190.9586015344687
+Volume: 381.9172030689374
+Height: 6.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 69.08
+Area: 379.94
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 44.0
+Area: 155.83427836663404
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 36.0
+Area: 225.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1324.9776422446419
+Base area: 1017.8760197630929
+Volume: 5089.380098815464
+Height: 15.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 61.0
+Area: 252.8569082928694
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 70.0
+Area: 264.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 34.0
+Area: 72.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 58.0
+Area: 210.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 24.0
+Area: 36.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 909.4897167397218
+Base area: 907.9202768874502
+Volume: 302.6400922958167
+Height: 1.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 10.0
+Area: 4.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 230.0
+Height: None
+Total surface area: 526.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 31.400000000000002
+Area: 78.5
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 52.0
+Area: 133.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 48.0
+Area: 64.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 42.0
+Area: 110.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 85.0
+Height: None
+Total surface area: 214.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 96.0
+Area: 575.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 8303.0
+Height: None
+Total surface area: 2470.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 240.0
+Height: None
+Total surface area: 272.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 50.24
+Area: 200.96
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 24.0
+Area: 27.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 68.0
+Area: 460.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 2461.76
+Base area: None
+Volume: 11488.213333333333
+Height: None
+
+Figure: Cone
+Dimension: 3
+Side surface area: 243.99478221341334
+Base area: 50.26548245743669
+Volume: 318.3480555637657
+Height: 19.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 80.09521122207046
+Base area: 78.53981633974483
+Volume: 26.17993877991494
+Height: 1.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 4534.16
+Base area: None
+Volume: 28716.346666666665
+Height: None
+
+Figure: Circle
+Dimension: 2
+Petimeter: 113.04
+Area: 1017.36
+
+Figure: Circle
+Dimension: 2
+Petimeter: 56.52
+Area: 254.34
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 32.0
+Area: 48.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 331.5
+Base area: 125.14067084685138
+Volume: 542.276240336356
+Height: 13.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 28.0
+Area: 45.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 32.0
+Area: 238.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 31.400000000000002
+Area: 78.5
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 540.0
+Height: None
+Total surface area: 534.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 30.0
+Area: 14.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 42.0
+Area: 104.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 30.0
+Area: 26.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 42.0
+Area: 418.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 310.5
+Base area: 35.074028853269766
+Volume: 268.9008878750682
+Height: 23.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 5024.0
+Base area: None
+Volume: 33493.333333333336
+Height: None
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 240.0
+Base area: 110.85125168440814
+Volume: 369.50417228136047
+Height: 10.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 3872.0
+Height: None
+Total surface area: 1672.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 35.0
+Area: 103.82061452332094
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 34.0
+Area: 16.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 724.5
+Base area: 190.9586015344687
+Volume: 1464.0159450975932
+Height: 23.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 39.0
+Area: 66.62722791772144
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 43.0
+Area: 41.831258248666956
+
+Figure: Circle
+Dimension: 2
+Petimeter: 62.800000000000004
+Area: 314.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 24.0
+Area: 27.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 862.5
+Base area: 229.06371930098402
+Volume: 1908.8643275082
+Height: 25.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 24.0
+Area: 187.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 38.0
+Area: 99.31012033020602
+
+Figure: Ball
+Dimension: 3
+Side surface area: 6644.240000000001
+Base area: None
+Volume: 50939.17333333333
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 1808.64
+Base area: None
+Volume: 7234.5599999999995
+Height: None
+
+Figure: Circle
+Dimension: 2
+Petimeter: 37.68
+Area: 113.04
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 78.0
+Area: 374.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 58.0
+Area: 100.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 40.0
+Area: 75.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 803.84
+Base area: None
+Volume: 2143.5733333333333
+Height: None
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 198.0
+Base area: 209.57814771583415
+Volume: 419.15629543166824
+Height: 6.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 2506.3530894918526
+Base area: 1809.5573684677208
+Volume: 13873.273158252527
+Height: 23.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 648.0
+Height: None
+Total surface area: 792.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 64.0
+Area: 180.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 52.0
+Area: 144.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 75.36
+Area: 452.16
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 34.0
+Area: 12.244998979175131
+
+Figure: Cone
+Dimension: 3
+Side surface area: 263.31344613910767
+Base area: 78.53981633974483
+Volume: 418.87902047863906
+Height: 16.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 57.0
+Area: 212.28793440004247
+
+Figure: Cone
+Dimension: 3
+Side surface area: 845.8997098232027
+Base area: 314.1592653589793
+Volume: 2617.993877991494
+Height: 25.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 62.0
+Area: 228.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 48.0
+Area: 143.78992199269973
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 60.0
+Area: 224.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 540.0
+Base area: 249.4153162899183
+Volume: 1247.0765814495915
+Height: 15.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 54.0
+Area: 176.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 25.12
+Area: 50.24
+
+Figure: Cone
+Dimension: 3
+Side surface area: 849.5380049354233
+Base area: 706.8583470577034
+Volume: 2356.194490192345
+Height: 10.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1410.3511839901244
+Base area: 1385.4423602330987
+Volume: 1847.2564803107982
+Height: 4.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 88.0
+Area: 475.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 26.0
+Area: 12.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 2299.7595521363883
+Base area: 1661.9025137490005
+Volume: 12187.285100826004
+Height: 22.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 38.0
+Area: 48.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 39.0
+Area: 53.73497464408074
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: None
+Area: None
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 60.0
+Base area: 6.928203230275509
+Volume: 23.09401076758503
+Height: 10.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 48.0
+Area: 63.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1848.0
+Height: None
+Total surface area: 1048.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 70.0
+Area: 420.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 67.0
+Area: 335.82706324274994
+
+Figure: Ball
+Dimension: 3
+Side surface area: 6079.04
+Base area: None
+Volume: 44579.62666666666
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 4069.44
+Base area: None
+Volume: 24416.64
+Height: None
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 120.0
+Base area: 173.20508075688772
+Volume: 230.9401076758503
+Height: 4.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 720.0
+Height: None
+Total surface area: 672.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 24.0
+Area: 27.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1295.311834341519
+Base area: 1256.6370614359173
+Volume: 2094.3951023931954
+Height: 5.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 69.08
+Area: 379.94
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 90.0
+Area: 475.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 2202.346080087268
+Base area: 1661.9025137490005
+Volume: 11079.350091660002
+Height: 20.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 22.0
+Area: 90.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1568.0
+Height: None
+Total surface area: 868.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 862.5
+Base area: 229.06371930098402
+Volume: 1908.8643275082
+Height: 25.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 5024.0
+Base area: None
+Volume: 33493.333333333336
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 1808.64
+Base area: None
+Volume: 7234.5599999999995
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 72.0
+Area: 529.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 48.0
+Area: 95.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 67.0
+Area: 216.21926371163138
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 30.0
+Area: 56.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 78.0
+Area: 360.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 6079.04
+Base area: None
+Volume: 44579.62666666666
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 7392.0
+Height: None
+Total surface area: 2344.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 210.0
+Height: None
+Total surface area: 314.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 38.0
+Area: 120.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 54.0
+Area: 240.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 52.0
+Area: 32.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 37.68
+Area: 113.04
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 30.0
+Area: 40.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 761.3097388408822
+Base area: 706.8583470577034
+Volume: 1413.7166941154069
+Height: 6.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 182.9691179639206
+Base area: 50.26548245743669
+Volume: 234.57225146803788
+Height: 14.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 92.0
+Area: 528.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1374.1729913152951
+Base area: 1134.1149479459152
+Volume: 4914.498107765632
+Height: 13.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 56.0
+Area: 192.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 75.36
+Area: 452.16
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 586.5
+Base area: 125.14067084685138
+Volume: 959.4118098258605
+Height: 23.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 52.0
+Area: 196.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 2122.64
+Base area: None
+Volume: 9198.106666666667
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 66.0
+Area: 240.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1977.5820448041236
+Base area: 1963.4954084936207
+Volume: 1963.4954084936207
+Height: 3.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 30.0
+Area: 26.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 52.0
+Area: 48.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 1808.64
+Base area: None
+Volume: 7234.5599999999995
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1632.0
+Height: None
+Total surface area: 940.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 7234.56
+Base area: None
+Volume: 57876.479999999996
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 803.84
+Base area: None
+Volume: 2143.5733333333333
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 4320.0
+Height: None
+Total surface area: 1632.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 34.0
+Area: 66.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 46.0
+Area: 60.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 12.56
+Area: 12.56
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 56.0
+Area: 201.3343336067867
+
+Figure: Circle
+Dimension: 2
+Petimeter: 81.64
+Area: 530.66
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 48.0
+Area: 140.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 63.0
+Area: 229.44301850917918
+
+Figure: Cone
+Dimension: 3
+Side surface area: 2350.2850742857754
+Base area: 1661.9025137490005
+Volume: 12741.252605409003
+Height: 23.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2640.0
+Height: None
+Total surface area: 1228.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 6644.240000000001
+Base area: None
+Volume: 50939.17333333333
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 210.0
+Height: None
+Total surface area: 242.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 315.0
+Base area: 43.30127018922193
+Volume: 303.1088913245535
+Height: 21.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 44.0
+Area: 85.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 144.44
+Area: 1661.0600000000002
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 4370.0
+Height: None
+Total surface area: 1714.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 57.0
+Area: 219.5791429075175
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 880.0
+Height: None
+Total surface area: 556.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 29.0
+Area: 10.28325586765541
+
+Figure: Ball
+Dimension: 3
+Side surface area: 4534.16
+Base area: None
+Volume: 28716.346666666665
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 24.0
+Area: 209.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 30.0
+Base area: 1.7320508075688772
+Volume: 5.773502691896257
+Height: 10.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 48.0
+Area: 140.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 64.0
+Area: 240.1155971610341
+
+Figure: Circle
+Dimension: 2
+Petimeter: 37.68
+Area: 113.04
+
+Figure: Circle
+Dimension: 2
+Petimeter: 131.88
+Area: 1384.74
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 336.0
+Height: None
+Total surface area: 460.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 805.0
+Height: None
+Total surface area: 622.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 7850.0
+Base area: None
+Volume: 65416.666666666664
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 314.0
+Base area: None
+Volume: 523.3333333333334
+Height: None
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 48.0
+Area: 135.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 88.0
+Area: 475.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 90.0
+Area: 500.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 88.0
+Area: 432.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 31.0
+Area: 41.72521162467564
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 84.0
+Area: 441.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 52.0
+Area: 48.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 490.73246009060813
+Base area: 314.1592653589793
+Volume: 1256.637061435917
+Height: 12.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1425.0
+Height: None
+Total surface area: 910.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 94.2
+Area: 706.5
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 60.0
+Area: 221.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 28.0
+Area: 10.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 241.5
+Base area: 229.06371930098402
+Volume: 534.482011702296
+Height: 7.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 44.0
+Area: 100.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 69.0
+Area: 306.88077896798944
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 486.0
+Base area: 140.29611541307906
+Volume: 841.7766924784744
+Height: 18.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 42.0
+Area: 312.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1865.2490414517872
+Base area: 1809.5573684677208
+Volume: 3619.1147369354417
+Height: 6.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 62.0
+Area: 150.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 138.0
+Base area: 6.928203230275509
+Volume: 53.116224765445565
+Height: 23.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 52.0
+Area: 169.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 71.0
+Area: 262.4566358199789
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 76.0
+Area: 325.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 28.0
+Area: 40.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 4069.44
+Base area: None
+Volume: 24416.64
+Height: None
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 72.0
+Area: 308.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 62.83185307179586
+Base area: 50.26548245743669
+Volume: 50.26548245743669
+Height: 3.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 42.0
+Area: 38.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 22.0
+Area: 10.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 11592.0
+Height: None
+Total surface area: 3078.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 150.72
+Area: 1808.64
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1596.0
+Height: None
+Total surface area: 890.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 63.0
+Area: 208.0845981806438
+
+Figure: Cone
+Dimension: 3
+Side surface area: 62.83185307179586
+Base area: 50.26548245743669
+Volume: 50.26548245743669
+Height: 3.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 6079.04
+Base area: None
+Volume: 44579.62666666666
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 615.44
+Base area: None
+Volume: 1436.0266666666666
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 100.0
+Height: None
+Total surface area: 160.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 75.36
+Area: 452.16
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 135.0
+Base area: 97.42785792574934
+Volume: 194.85571585149864
+Height: 6.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 17.0
+Area: 29.729246963217886
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 64.0
+Area: 207.98889130492043
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 70.0
+Area: 347.4817569723214
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 34.0
+Area: 42.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 51.0
+Area: 157.39826596001285
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 54.0
+Area: 50.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1254.0
+Height: None
+Total surface area: 778.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 6.0
+Area: 2.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 768.0
+Height: None
+Total surface area: 544.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 148.5
+Base area: 52.39453692895854
+Volume: 157.1836107868756
+Height: 9.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 60.0
+Area: 18.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 5538.96
+Base area: None
+Volume: 38772.72
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2640.0
+Height: None
+Total surface area: 1252.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 80.0
+Area: 396.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 7850.0
+Base area: None
+Volume: 65416.666666666664
+Height: None
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 157.5
+Base area: 10.825317547305483
+Volume: 75.77722283113837
+Height: 21.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 56.0
+Area: 75.11990415329349
+
+Figure: Circle
+Dimension: 2
+Petimeter: 106.76
+Area: 907.46
+
+Figure: Circle
+Dimension: 2
+Petimeter: 6.28
+Area: 3.14
+
+Figure: Circle
+Dimension: 2
+Petimeter: 31.400000000000002
+Area: 78.5
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 20.0
+Area: 60.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 612.0
+Base area: 125.14067084685138
+Volume: 1001.1253667748109
+Height: 24.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 44.0
+Area: 85.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 4760.0
+Height: None
+Total surface area: 1716.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 38.0
+Area: 198.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 72.0
+Height: None
+Total surface area: 152.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 64.0
+Area: 192.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1964.6185208184352
+Base area: 1520.53084433746
+Volume: 9123.18506602476
+Height: 18.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 58.0
+Area: 173.89859100823253
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 62.0
+Area: 150.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 52.0
+Area: 25.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 2461.76
+Base area: None
+Volume: 11488.213333333333
+Height: None
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1440.881803965875
+Base area: 1385.4423602330987
+Volume: 2770.8847204661975
+Height: 6.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 147.0
+Base area: 21.217622392718745
+Volume: 99.0155711660208
+Height: 14.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 64.0
+Area: 255.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 2122.64
+Base area: None
+Volume: 9198.106666666667
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 76.0
+Area: 336.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 784.4677008116546
+Base area: 452.3893421169302
+Volume: 2563.539605329271
+Height: 17.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 472.5
+Base area: 190.9586015344687
+Volume: 954.7930076723434
+Height: 15.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 2103.922043488155
+Base area: 1385.4423602330987
+Volume: 11083.53888186479
+Height: 24.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 34.0
+Area: 52.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 66.0
+Area: 252.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 53.0
+Area: 181.28642278112028
+
+Figure: Ball
+Dimension: 3
+Side surface area: 1519.76
+Base area: None
+Volume: 5572.453333333333
+Height: None
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 59.0
+Area: 118.00926870377597
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 126.0
+Height: None
+Total surface area: 162.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 120.0
+Base area: 6.928203230275509
+Volume: 46.18802153517006
+Height: 20.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 44.0
+Area: 21.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 2039.0122250636196
+Base area: 1963.4954084936207
+Volume: 4581.4892864851145
+Height: 7.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 75.0
+Area: 304.2482538980298
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 90.0
+Area: 418.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 8.0
+Area: 3.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 160.0
+Height: None
+Total surface area: 232.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 53.0
+Area: 321.6463184410272
+
+Figure: Circle
+Dimension: 2
+Petimeter: 150.72
+Area: 1808.64
+
+Figure: Ball
+Dimension: 3
+Side surface area: 12.56
+Base area: None
+Volume: 4.1866666666666665
+Height: None
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 46.0
+Area: 135.89211407093006
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 78.0
+Area: 359.9531219478448
+
+Figure: Circle
+Dimension: 2
+Petimeter: 37.68
+Area: 113.04
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 75.0
+Height: None
+Total surface area: 190.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 60.0
+Area: 221.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 48.0
+Area: 150.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 59.0
+Area: 370.1061165395676
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 74.0
+Area: 322.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 204.0
+Base area: 125.14067084685138
+Volume: 333.70845559160364
+Height: 8.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 12.0
+Area: 5.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 50.24
+Area: 200.96
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 64.0
+Area: 240.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1700.7191077334473
+Base area: 1661.9025137490005
+Volume: 2769.8375229150006
+Height: 5.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 231.0
+Base area: 21.217622392718745
+Volume: 155.5958975466041
+Height: 22.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1570.7492021982132
+Base area: 907.9202768874502
+Volume: 7263.362215099602
+Height: 24.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2240.0
+Height: None
+Total surface area: 1104.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 7234.56
+Base area: None
+Volume: 57876.479999999996
+Height: None
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 120.0
+Base area: 173.20508075688772
+Volume: 230.9401076758503
+Height: 4.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 49.0
+Area: 119.97916485790356
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 5016.0
+Height: None
+Total surface area: 1858.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 6.28
+Area: 3.14
+
+Figure: Ball
+Dimension: 3
+Side surface area: 7850.0
+Base area: None
+Volume: 65416.666666666664
+Height: None
+
+Figure: Circle
+Dimension: 2
+Petimeter: 106.76
+Area: 907.46
+
+Figure: Ball
+Dimension: 3
+Side surface area: 4069.44
+Base area: None
+Volume: 24416.64
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 32.0
+Area: 55.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 34.0
+Area: 66.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 2331.1908809339975
+Base area: 1963.4954084936207
+Volume: 10471.975511965977
+Height: 16.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 40.0
+Area: 99.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 911.8198696824759
+Base area: 452.3893421169302
+Volume: 3166.7253948185116
+Height: 21.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 55.0
+Area: 21.47489164290195
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 72.0
+Height: None
+Total surface area: 120.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 63.0
+Base area: 21.217622392718745
+Volume: 42.43524478543749
+Height: 6.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 144.44
+Area: 1661.0600000000002
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 528.0
+Height: None
+Total surface area: 488.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 17.0
+Area: 5.0518148554092255
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 24.0
+Base area: 6.928203230275509
+Volume: 9.237604307034012
+Height: 4.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 18.84
+Area: 28.26
+
+Figure: Circle
+Dimension: 2
+Petimeter: 43.96
+Area: 153.86
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1945.569332593366
+Base area: 1661.9025137490005
+Volume: 7755.545064162003
+Height: 14.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 156.0
+Base area: 27.712812921102035
+Volume: 120.08885599144216
+Height: 13.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 113.04
+Base area: None
+Volume: 113.03999999999999
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 62.0
+Area: 238.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 59.0
+Area: 182.0169262962468
+
+Figure: Cone
+Dimension: 3
+Side surface area: 268.43617813616964
+Base area: 153.93804002589985
+Volume: 513.1268000863328
+Height: 10.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 18.0
+Area: 14.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 600.0
+Base area: 270.6329386826371
+Volume: 1443.3756729740644
+Height: 16.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 402.3201612868357
+Base area: 314.1592653589793
+Volume: 837.7580409572781
+Height: 8.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 803.84
+Base area: None
+Volume: 2143.5733333333333
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 50.0
+Area: 136.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 50.0
+Area: 154.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 60.0
+Area: 221.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 513.0
+Base area: 140.29611541307906
+Volume: 888.5420642828341
+Height: 19.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 38.0
+Area: 352.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 452.16
+Base area: None
+Volume: 904.3199999999999
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 62.0
+Area: 225.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 4928.0
+Height: None
+Total surface area: 1768.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 615.44
+Base area: None
+Volume: 1436.0266666666666
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1155.0
+Height: None
+Total surface area: 782.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 44.0
+Area: 40.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 68.0
+Area: 90.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 54.0
+Area: 140.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 56.0
+Area: 115.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 38.0
+Area: 64.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 74.0
+Area: 322.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 48.0
+Area: 44.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 37.68
+Area: 113.04
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 76.0
+Area: 225.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 131.88
+Area: 1384.74
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 66.0
+Area: 252.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 72.0
+Area: 323.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 64.0
+Area: 81.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 51.81247337366076
+Base area: 12.566370614359172
+Volume: 33.510321638291124
+Height: 8.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 138.16
+Area: 1519.76
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 22.0
+Area: 18.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2304.0
+Height: None
+Total surface area: 1152.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 66.0
+Area: 242.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 18.0
+Area: 8.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 34.0
+Area: 52.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 25.0
+Area: 47.54997371187496
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1534.602895003373
+Base area: 1520.53084433746
+Volume: 1520.53084433746
+Height: 3.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 3927.0
+Height: None
+Total surface area: 1550.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 52.0
+Area: 153.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 315.0
+Base area: 97.42785792574934
+Volume: 454.6633369868302
+Height: 14.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 52.0
+Area: 286.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1520.0
+Height: None
+Total surface area: 1072.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 165.0
+Base area: 43.30127018922193
+Volume: 158.77132402714707
+Height: 11.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 42.0
+Area: 104.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 251.32741228718345
+Base area: 201.06192982974676
+Volume: 402.1238596594935
+Height: 6.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 210.0
+Base area: 21.217622392718745
+Volume: 141.45081595145828
+Height: 20.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 31.400000000000002
+Area: 78.5
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1311.9676091847634
+Base area: 1256.6370614359173
+Volume: 2513.274122871834
+Height: 6.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 24.0
+Area: 35.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1959.3113757278395
+Base area: 1385.4423602330987
+Volume: 9698.09652163169
+Height: 21.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 10.0
+Height: None
+Total surface area: 34.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 52.0
+Area: 247.64747672300788
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1053.3521711065425
+Base area: 907.9202768874502
+Volume: 3026.400922958167
+Height: 10.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 5024.0
+Base area: None
+Volume: 33493.333333333336
+Height: None
+
+Figure: Cone
+Dimension: 3
+Side surface area: 444.2882938158366
+Base area: 314.1592653589793
+Volume: 1047.1975511965977
+Height: 10.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1921.5969488392625
+Base area: 1520.53084433746
+Volume: 8616.341451245606
+Height: 17.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 52.0
+Area: 21.705200776328716
+
+Figure: Ball
+Dimension: 3
+Side surface area: 2122.64
+Base area: None
+Volume: 9198.106666666667
+Height: None
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 58.0
+Area: 100.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 69.0
+Area: 292.3374548360165
+
+Figure: Cone
+Dimension: 3
+Side surface area: 394.0163413224578
+Base area: 380.132711084365
+Volume: 380.132711084365
+Height: 3.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 189.1750130391168
+Base area: 153.93804002589985
+Volume: 256.5634000431664
+Height: 5.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 25.0
+Area: 54.26785420486054
+
+input03.txt
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 6336.0
+Height: None
+Total surface area: 2208.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1170.0
+Height: None
+Total surface area: 674.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 66.0
+Area: 200.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 56.0
+Area: 360.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 117.0
+Base area: 15.588457268119894
+Volume: 67.5499814951862
+Height: 13.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 72.0
+Area: 275.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 49.0
+Area: 81.09369580923044
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 54.0
+Area: 170.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 2150.355342068649
+Base area: 1520.53084433746
+Volume: 11150.559525141372
+Height: 22.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 46.0
+Area: 126.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 138.16
+Area: 1519.76
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 292.5
+Base area: 73.17914661978506
+Volume: 365.89573309892523
+Height: 15.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 60.0
+Area: 200.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 39.98594644342529
+Base area: 28.274333882308138
+Volume: 28.274333882308138
+Height: 3.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 20.0
+Area: 120.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 60.0
+Area: 189.41155221134508
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 216.0
+Base area: 140.29611541307906
+Volume: 374.1229744348775
+Height: 8.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 70.0
+Area: 264.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 40.0
+Area: 84.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 72.0
+Base area: 62.35382907247958
+Volume: 83.1384387633061
+Height: 4.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 86.0
+Area: 460.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 68.0
+Area: 225.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 58.0
+Area: 204.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1498.773485783605
+Base area: 1256.6370614359173
+Volume: 5445.4272662223075
+Height: 13.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 2122.64
+Base area: None
+Volume: 9198.106666666667
+Height: None
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 94.0
+Area: 552.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 722.5458213874216
+Base area: 530.929158456675
+Volume: 2123.7166338267
+Height: 12.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 12.56
+Area: 12.56
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 60.0
+Area: 216.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 32.0
+Area: 221.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1274.0
+Height: None
+Total surface area: 742.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 50.0
+Area: 126.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 300.0
+Height: None
+Total surface area: 310.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 18.84
+Area: 28.26
+
+Figure: Cone
+Dimension: 3
+Side surface area: 840.2806072104322
+Base area: 615.7521601035994
+Volume: 2668.2593604489307
+Height: 13.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 24.0
+Area: 27.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 135.0
+Base area: 10.825317547305483
+Volume: 64.9519052838329
+Height: 18.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 75.36
+Area: 452.16
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 24.0
+Area: 35.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1040.0
+Height: None
+Total surface area: 784.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 113.04
+Base area: None
+Volume: 113.03999999999999
+Height: None
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 44.0
+Area: 85.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 1808.64
+Base area: None
+Volume: 7234.5599999999995
+Height: None
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 45.0
+Area: 67.5
+
+Figure: Ball
+Dimension: 3
+Side surface area: 3215.36
+Base area: None
+Volume: 17148.586666666666
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 8.0
+Area: 34.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 34.0
+Area: 304.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 100.48
+Area: 803.84
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1295.311834341519
+Base area: 1256.6370614359173
+Volume: 2094.3951023931954
+Height: 5.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 43.0
+Area: 68.07147685733328
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: None
+Area: None
+
+Figure: Circle
+Dimension: 2
+Petimeter: 100.48
+Area: 803.84
+
+Figure: Circle
+Dimension: 2
+Petimeter: 157.0
+Area: 1962.5
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 3570.0
+Height: None
+Total surface area: 1474.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 385.08545301837563
+Base area: 78.53981633974483
+Volume: 628.3185307179585
+Height: 24.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 6644.240000000001
+Base area: None
+Volume: 50939.17333333333
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 4256.0
+Height: None
+Total surface area: 1588.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 7234.56
+Base area: None
+Volume: 57876.479999999996
+Height: None
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 42.0
+Area: 87.73183572683293
+
+Figure: Ball
+Dimension: 3
+Side surface area: 4069.44
+Base area: None
+Volume: 24416.64
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 600.0
+Height: None
+Total surface area: 580.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 902.4412871540673
+Base area: 615.7521601035994
+Volume: 3078.760800517997
+Height: 15.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 26.0
+Area: 6.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 131.88
+Area: 1384.74
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 504.0
+Base area: 190.9586015344687
+Volume: 1018.4458748504996
+Height: 16.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 44.0
+Area: 72.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 50.0
+Area: 24.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 87.92
+Area: 615.44
+
+Figure: Ball
+Dimension: 3
+Side surface area: 452.16
+Base area: None
+Volume: 904.3199999999999
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 314.0
+Base area: None
+Volume: 523.3333333333334
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 88.0
+Area: 57.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 131.88
+Area: 1384.74
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 44.0
+Area: 138.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 470.03307811087643
+Base area: 380.132711084365
+Volume: 1013.6872295583066
+Height: 8.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 20.0
+Height: None
+Total surface area: 48.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 36.0
+Area: 80.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 38.0
+Area: 28.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 322.10135278239875
+Base area: 113.09733552923255
+Volume: 603.1857894892403
+Height: 16.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 80.0
+Area: 391.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 504.0
+Base area: 190.9586015344687
+Volume: 1018.4458748504996
+Height: 16.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 48.0
+Area: 135.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 20.0
+Area: 20.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2457.0
+Height: None
+Total surface area: 1158.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 586.5
+Base area: 125.14067084685138
+Volume: 959.4118098258605
+Height: 23.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 24.0
+Area: 28.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 487.5
+Base area: 73.17914661978506
+Volume: 609.8262218315421
+Height: 25.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 6644.240000000001
+Base area: None
+Volume: 50939.17333333333
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 90.0
+Height: None
+Total surface area: 138.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 32.0
+Area: 39.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 18.84
+Area: 28.26
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 988.0
+Height: None
+Total surface area: 750.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 4375.0
+Height: None
+Total surface area: 1950.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1080.0
+Height: None
+Total surface area: 636.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 60.0
+Area: 184.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1760.0
+Height: None
+Total surface area: 952.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 60.0
+Area: 144.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 6384.0
+Height: None
+Total surface area: 2078.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 660.0
+Base area: 209.57814771583415
+Volume: 1397.1876514388941
+Height: 20.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1607.4151533969018
+Base area: 1017.8760197630929
+Volume: 7464.424144929348
+Height: 22.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 42.0
+Area: 340.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 56.0
+Area: 115.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 56.52
+Area: 254.34
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 3234.0
+Height: None
+Total surface area: 1526.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 64.0
+Area: 175.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 615.44
+Base area: None
+Volume: 1436.0266666666666
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 748.0
+Height: None
+Total surface area: 904.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 858.9369407530634
+Base area: 804.247719318987
+Volume: 1608.495438637974
+Height: 6.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 58.0
+Area: 189.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1609.2806451473427
+Base area: 1256.6370614359173
+Volume: 6702.064327658225
+Height: 16.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 10.0
+Area: 6.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 452.16
+Base area: None
+Volume: 904.3199999999999
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 50.0
+Area: 60.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 253.5
+Base area: 73.17914661978506
+Volume: 317.1096353524019
+Height: 13.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 3629.84
+Base area: None
+Volume: 20569.093333333334
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 161.0
+Height: None
+Total surface area: 382.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 32.0
+Area: 39.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 75.36
+Area: 452.16
+
+Figure: Circle
+Dimension: 2
+Petimeter: 119.32000000000001
+Area: 1133.54
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 78.0
+Area: 360.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 5024.0
+Base area: None
+Volume: 33493.333333333336
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 1256.0
+Base area: None
+Volume: 4186.666666666667
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 40.0
+Area: 96.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 3629.84
+Base area: None
+Volume: 20569.093333333334
+Height: None
+
+Figure: Cone
+Dimension: 3
+Side surface area: 354.3878045360225
+Base area: 78.53981633974483
+Volume: 575.9586531581288
+Height: 22.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 364.0182807071998
+Base area: 153.93804002589985
+Volume: 769.6902001294992
+Height: 15.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 1519.76
+Base area: None
+Volume: 5572.453333333333
+Height: None
+
+Figure: Circle
+Dimension: 2
+Petimeter: 144.44
+Area: 1661.0600000000002
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 44.0
+Area: 117.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 42.0
+Area: 68.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 68.0
+Area: 396.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 31.572615420804546
+Base area: 3.141592653589793
+Volume: 10.471975511965976
+Height: 10.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 112.39703569665163
+Base area: 50.26548245743669
+Volume: 134.0412865531645
+Height: 8.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 540.0
+Base area: 140.29611541307906
+Volume: 935.3074360871938
+Height: 20.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 5538.96
+Base area: None
+Volume: 38772.72
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 960.0
+Height: None
+Total surface area: 1136.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 58.0
+Area: 60.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 12.0
+Area: 9.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 22.0
+Area: 10.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 63.0
+Area: 94.25862029544035
+
+Figure: Circle
+Dimension: 2
+Petimeter: 25.12
+Area: 50.24
+
+Figure: Cone
+Dimension: 3
+Side surface area: 537.5888355171622
+Base area: 380.132711084365
+Volume: 1393.8199406426716
+Height: 11.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 78.0
+Area: 380.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 520.0
+Height: None
+Total surface area: 418.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 42.0
+Area: 104.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 684.0
+Base area: 156.31758538309117
+Volume: 1250.5406830647294
+Height: 24.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 37.68
+Area: 113.04
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 62.0
+Area: 238.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 6079.04
+Base area: None
+Volume: 44579.62666666666
+Height: None
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1564.0020760775187
+Base area: 1385.4423602330987
+Volume: 5079.955320854695
+Height: 11.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 38.0
+Area: 352.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 278.46989384735843
+Base area: 254.46900494077323
+Volume: 339.29200658769764
+Height: 4.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 240.0
+Height: None
+Total surface area: 286.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 49.5
+Base area: 52.39453692895854
+Volume: 52.39453692895853
+Height: 3.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 236.18425873659965
+Base area: 113.09733552923255
+Volume: 414.6902302738527
+Height: 11.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 411.6805154188214
+Base area: 113.09733552923255
+Volume: 791.6813487046279
+Height: 21.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 912.0
+Height: None
+Total surface area: 1084.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 74.0
+Area: 322.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 58.0
+Area: 208.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 48.0
+Area: 23.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 12.56
+Base area: None
+Volume: 4.1866666666666665
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 30.0
+Area: 54.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 6079.04
+Base area: None
+Volume: 44579.62666666666
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 3215.36
+Base area: None
+Volume: 17148.586666666666
+Height: None
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 88.0
+Area: 483.874983854301
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 48.0
+Area: 10.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 1808.64
+Base area: None
+Volume: 7234.5599999999995
+Height: None
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 65.0
+Area: 355.938733414115
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 56.0
+Area: 187.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 25.12
+Area: 50.24
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 199.5
+Base area: 21.217622392718745
+Volume: 134.37827515388537
+Height: 19.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 4048.0
+Height: None
+Total surface area: 1732.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 165.0
+Base area: 52.39453692895854
+Volume: 174.64845642986177
+Height: 10.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 2461.76
+Base area: None
+Volume: 11488.213333333333
+Height: None
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1439.4940719633105
+Base area: 1017.8760197630929
+Volume: 6107.256118578558
+Height: 18.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 52.0
+Area: 88.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 1256.0
+Base area: None
+Volume: 4186.666666666667
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 74.0
+Area: 312.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 12.56
+Area: 12.56
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: None
+Area: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1134.0
+Height: None
+Total surface area: 990.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 56.0
+Area: 195.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 241.5
+Base area: 21.217622392718745
+Volume: 162.66843834417702
+Height: 23.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 3629.84
+Base area: None
+Volume: 20569.093333333334
+Height: None
+
+Figure: Cone
+Dimension: 3
+Side surface area: 167.47959788552143
+Base area: 153.93804002589985
+Volume: 153.93804002589985
+Height: 3.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 6.28
+Area: 3.14
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 627.0
+Base area: 209.57814771583415
+Volume: 1327.3282688669494
+Height: 19.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 465.98408387880266
+Base area: 153.93804002589985
+Volume: 1026.2536001726655
+Height: 20.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 40.0
+Area: 71.15124735378853
+
+Figure: Cone
+Dimension: 3
+Side surface area: 674.5285486102271
+Base area: 314.1592653589793
+Volume: 1989.6753472735356
+Height: 19.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 43.0
+Area: 161.22293772335297
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 71.0
+Area: 287.9791659130917
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 58.0
+Area: 51.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 26.0
+Area: 42.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 82.0
+Area: 414.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 276.0
+Base area: 229.06371930098402
+Volume: 610.836584802624
+Height: 8.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 113.04
+Area: 1017.36
+
+Figure: Cone
+Dimension: 3
+Side surface area: 322.3770065365564
+Base area: 254.46900494077323
+Volume: 593.7610115284708
+Height: 7.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 753.9822368615503
+Base area: 452.3893421169302
+Volume: 2412.743157956961
+Height: 16.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 47.0
+Area: 44.971291863106785
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2100.0
+Height: None
+Total surface area: 1418.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 68.0
+Area: 192.6219310808957
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 12.0
+Height: None
+Total surface area: 32.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 214.73423518826584
+Base area: 201.06192982974676
+Volume: 201.06192982974676
+Height: 3.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2875.0
+Height: None
+Total surface area: 1630.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 150.72
+Area: 1808.64
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 46.0
+Area: 71.88741197177708
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 58.0
+Area: 210.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 32.0
+Area: 58.42384850709653
+
+Figure: Ball
+Dimension: 3
+Side surface area: 803.84
+Base area: None
+Volume: 2143.5733333333333
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 62.0
+Area: 273.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 374.0
+Height: None
+Total surface area: 486.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 20.0
+Area: 17.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 357.6451775686596
+Base area: 113.09733552923255
+Volume: 678.5840131753953
+Height: 18.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 48.0
+Area: 35.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 142.5
+Base area: 156.31758538309117
+Volume: 260.5293089718186
+Height: 5.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 94.0
+Area: 552.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2176.0
+Height: None
+Total surface area: 1072.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 42.0
+Area: 38.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 24.0
+Area: 20.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 27.0
+Area: 20.89237467222059
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 68.0
+Area: 50.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 18.0
+Area: 8.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 216.0
+Base area: 249.4153162899183
+Volume: 498.83063257983656
+Height: 6.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 157.0
+Area: 1962.5
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 62.0
+Area: 114.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 30.0
+Area: 54.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 528.0
+Base area: 209.57814771583415
+Volume: 1117.7501211511153
+Height: 16.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 45.0
+Area: 35.40295634804837
+
+Figure: Circle
+Dimension: 2
+Petimeter: 138.16
+Area: 1519.76
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 44.0
+Area: 117.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1026.0
+Height: None
+Total surface area: 678.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 148.18862909286872
+Base area: 78.53981633974483
+Volume: 209.43951023931953
+Height: 8.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 75.36
+Area: 452.16
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 28.0
+Area: 40.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 171.0
+Base area: 156.31758538309117
+Volume: 312.63517076618234
+Height: 6.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 4534.16
+Base area: None
+Volume: 28716.346666666665
+Height: None
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 56.0
+Area: 96.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 512.0
+Height: None
+Total surface area: 448.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 81.0
+Area: 379.5860040080186
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 56.0
+Area: 171.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 87.92
+Area: 615.44
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 24.0
+Area: 35.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 62.800000000000004
+Area: 314.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 288.0
+Base area: 62.35382907247958
+Volume: 332.5537550532244
+Height: 16.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 68.0
+Area: 273.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 487.5
+Base area: 270.6329386826371
+Volume: 1172.7427342914273
+Height: 13.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 313.5
+Base area: 52.39453692895854
+Volume: 331.83206721673736
+Height: 19.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 12.56
+Base area: None
+Volume: 4.1866666666666665
+Height: None
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 82.0
+Area: 408.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 56.0
+Area: 75.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 43.96
+Area: 153.86
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 56.0
+Area: 150.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 42.0
+Base area: 6.928203230275509
+Volume: 16.16580753730952
+Height: 7.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 360.0
+Base area: 173.20508075688772
+Volume: 692.8203230275509
+Height: 12.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1287.4245161178742
+Base area: 804.247719318987
+Volume: 5361.65146212658
+Height: 20.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 42.0
+Area: 90.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 64.0
+Area: 360.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 28.0
+Area: 45.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 75.36
+Area: 452.16
+
+Figure: Cone
+Dimension: 3
+Side surface area: 943.8695412337088
+Base area: 380.132711084365
+Volume: 3167.772592369708
+Height: 25.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 584.7498990814286
+Base area: 530.929158456675
+Volume: 1061.85831691335
+Height: 6.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 15.0
+Area: 4.891031984924145
+
+Figure: Circle
+Dimension: 2
+Petimeter: 125.60000000000001
+Area: 1256.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 62.800000000000004
+Area: 314.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 72.0
+Area: 323.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 594.4338287545563
+Base area: 254.46900494077323
+Volume: 1611.6370312915637
+Height: 19.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 40.0
+Area: 96.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 136.0
+Height: None
+Total surface area: 322.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 189.0
+Base area: 15.588457268119894
+Volume: 109.11920087683926
+Height: 21.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 87.92
+Area: 615.44
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 72.0
+Area: 315.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 119.32000000000001
+Area: 1133.54
+
+Figure: Circle
+Dimension: 2
+Petimeter: 43.96
+Area: 153.86
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 92.0
+Area: 528.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 58.0
+Area: 168.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 26.0
+Area: 36.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 64.0
+Area: 191.41741038891945
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1408.3308206678278
+Base area: 804.247719318987
+Volume: 6165.899181445567
+Height: 23.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 18.0
+Area: 22.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 113.04
+Area: 1017.36
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 243.0
+Base area: 35.074028853269766
+Volume: 210.4441731196186
+Height: 18.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 42.0
+Area: 96.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 131.88
+Area: 1384.74
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 46.0
+Area: 48.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 56.0
+Area: 171.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 240.0
+Base area: 43.30127018922193
+Volume: 230.9401076758503
+Height: 16.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 54.0
+Area: 160.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 283.5
+Base area: 190.9586015344687
+Volume: 572.8758046034061
+Height: 9.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 3.0
+Base area: 0.4330127018922193
+Volume: 0.28867513459481287
+Height: 2.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 64.0
+Area: 14.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 315.0
+Base area: 84.87048957087498
+Volume: 424.3524478543749
+Height: 15.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 69.0
+Area: 459.0530334286007
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 6384.0
+Height: None
+Total surface area: 2116.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 172.5
+Base area: 229.06371930098402
+Volume: 381.77286550164
+Height: 5.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 43.96
+Area: 153.86
+
+Figure: Cone
+Dimension: 3
+Side surface area: 219.82170763537778
+Base area: 113.09733552923255
+Volume: 376.99111843077515
+Height: 10.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 243.0
+Base area: 35.074028853269766
+Volume: 210.4441731196186
+Height: 18.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 2331.1908809339975
+Base area: 1963.4954084936207
+Volume: 10471.975511965977
+Height: 16.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 803.84
+Base area: None
+Volume: 2143.5733333333333
+Height: None
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 793.5
+Base area: 229.06371930098402
+Volume: 1756.155181307544
+Height: 23.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 36.0
+Area: 64.9519052838329
+
+Figure: Ball
+Dimension: 3
+Side surface area: 50.24
+Base area: None
+Volume: 33.49333333333333
+Height: None
+
+Figure: Circle
+Dimension: 2
+Petimeter: 138.16
+Area: 1519.76
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 53.0
+Area: 119.0212481030173
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 432.0
+Base area: 140.29611541307906
+Volume: 748.245948869755
+Height: 16.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 52.0
+Area: 169.75744414826113
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 390.0
+Base area: 73.17914661978506
+Volume: 487.86097746523365
+Height: 20.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 106.76
+Area: 907.46
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1760.0
+Height: None
+Total surface area: 1216.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 30.0
+Area: 14.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 10626.0
+Height: None
+Total surface area: 2902.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 5538.96
+Base area: None
+Volume: 38772.72
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 26.0
+Area: 40.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 44.0
+Area: 137.32983336292187
+
+Figure: Circle
+Dimension: 2
+Petimeter: 6.28
+Area: 3.14
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 60.0
+Area: 221.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 84.0
+Base area: 21.217622392718745
+Volume: 56.580326380583315
+Height: 8.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 51.0
+Base area: 125.14067084685138
+Volume: 83.42711389790091
+Height: 2.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 18.0
+Base area: 62.35382907247958
+Volume: 20.784609690826525
+Height: 1.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 5538.96
+Base area: None
+Volume: 38772.72
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 314.0
+Base area: None
+Volume: 523.3333333333334
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 54.0
+Area: 126.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 1017.36
+Base area: None
+Volume: 3052.08
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1980.0
+Height: None
+Total surface area: 998.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 60.0
+Area: 256.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 81.64
+Area: 530.66
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 429.0
+Base area: 209.57814771583415
+Volume: 908.1719734352812
+Height: 13.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 61.0
+Area: 329.3775201516491
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2600.0
+Height: None
+Total surface area: 1258.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 612.0222432478605
+Base area: 201.06192982974676
+Volume: 1541.4747953613917
+Height: 23.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 43.96
+Area: 153.86
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 570.0
+Height: None
+Total surface area: 706.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 31.400000000000002
+Area: 78.5
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 28.5
+Base area: 156.31758538309117
+Volume: 52.10586179436372
+Height: 1.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 73.0
+Area: 288.24468772208104
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 18.0
+Area: 138.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 43.96
+Area: 153.86
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 48.0
+Area: 269.7162710403385
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 16.0
+Area: 9.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 138.16
+Area: 1519.76
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1078.9987369600128
+Base area: 530.929158456675
+Volume: 4070.4568815011753
+Height: 23.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 12.0
+Base area: 1.7320508075688772
+Volume: 2.309401076758503
+Height: 4.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 792.0
+Base area: 209.57814771583415
+Volume: 1676.625181726673
+Height: 24.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2940.0
+Height: None
+Total surface area: 1288.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 297.0
+Base area: 52.39453692895854
+Volume: 314.3672215737512
+Height: 18.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1908.9977653907918
+Base area: 1661.9025137490005
+Volume: 7201.577559579002
+Height: 13.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 336.0
+Height: None
+Total surface area: 320.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 828.9995739785721
+Base area: 804.247719318987
+Volume: 1072.330292425316
+Height: 4.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 517.5
+Base area: 97.42785792574934
+Volume: 746.9469107640782
+Height: 23.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 43.96
+Area: 153.86
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 82.5
+Base area: 52.39453692895854
+Volume: 87.32422821493088
+Height: 5.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 27.0
+Base area: 0.4330127018922193
+Volume: 2.598076211353316
+Height: 18.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 60.0
+Area: 126.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 22.0
+Area: 24.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 80.0
+Area: 384.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 2461.76
+Base area: None
+Volume: 11488.213333333333
+Height: None
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 78.0
+Area: 380.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 36.0
+Area: 72.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 46.0
+Area: 102.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1295.311834341519
+Base area: 1256.6370614359173
+Volume: 2094.3951023931954
+Height: 5.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 112.5
+Base area: 270.6329386826371
+Volume: 270.6329386826371
+Height: 3.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 44.0
+Area: 96.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 708.4274019230155
+Base area: 706.8583470577034
+Volume: 235.61944901923448
+Height: 1.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 4290.0
+Height: None
+Total surface area: 1622.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 7850.0
+Base area: None
+Volume: 65416.666666666664
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 803.84
+Base area: None
+Volume: 2143.5733333333333
+Height: None
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1534.503205476059
+Base area: 1385.4423602330987
+Volume: 4618.141200776996
+Height: 10.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 94.0
+Area: 550.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 4069.44
+Base area: None
+Volume: 24416.64
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 4534.16
+Base area: None
+Volume: 28716.346666666665
+Height: None
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 58.0
+Area: 168.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 76.0
+Area: 238.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 22.5
+Base area: 97.42785792574934
+Volume: 32.47595264191644
+Height: 1.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 62.800000000000004
+Area: 314.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 42.0
+Area: 68.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 2461.76
+Base area: None
+Volume: 11488.213333333333
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 74.0
+Area: 300.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 26.0
+Area: 40.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 50.24
+Base area: None
+Volume: 33.49333333333333
+Height: None
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 6.0
+Base area: 0.4330127018922193
+Volume: 0.5773502691896257
+Height: 4.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 1519.76
+Base area: None
+Volume: 5572.453333333333
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 60.0
+Area: 399.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 52.0
+Area: 25.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 412.5
+Base area: 270.6329386826371
+Volume: 992.3207751696693
+Height: 11.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 75.36
+Area: 452.16
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 58.0
+Area: 339.2653828494738
+
+Figure: Circle
+Dimension: 2
+Petimeter: 18.84
+Area: 28.26
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 63.0
+Area: 262.38643737301106
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 32.0
+Area: 28.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 87.92
+Area: 615.44
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 6118.0
+Height: None
+Total surface area: 2050.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 48.0
+Height: None
+Total surface area: 80.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 54.0
+Area: 375.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 588.4933461257023
+Base area: 380.132711084365
+Volume: 1647.2417480322483
+Height: 13.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 50.0
+Area: 92.26099343216997
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 37.0
+Area: 16.556602723687007
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 68.0
+Area: 225.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 125.60000000000001
+Area: 1256.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 441.0
+Base area: 190.9586015344687
+Volume: 891.1401404941872
+Height: 14.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 75.36
+Area: 452.16
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 12.0
+Area: 60.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 81.64
+Area: 530.66
+
+Figure: Circle
+Dimension: 2
+Petimeter: 37.68
+Area: 113.04
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 252.0
+Height: None
+Total surface area: 570.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 94.2
+Area: 706.5
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 52.0
+Area: 133.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 4860.0
+Height: None
+Total surface area: 1728.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 38.0
+Area: 88.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 78.0
+Area: 228.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 402.3201612868357
+Base area: 314.1592653589793
+Volume: 837.7580409572781
+Height: 8.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 48.0
+Area: 119.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 32.0
+Area: 132.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 43.0
+Area: 72.02663906287644
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 337.5
+Base area: 35.074028853269766
+Volume: 292.2835737772481
+Height: 25.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 2454.7883133030264
+Base area: 1809.5573684677208
+Volume: 13270.087368763287
+Height: 22.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 4534.16
+Base area: None
+Volume: 28716.346666666665
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 4069.44
+Base area: None
+Volume: 24416.64
+Height: None
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 76.0
+Area: 352.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 50.0
+Area: 288.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 2461.76
+Base area: None
+Volume: 11488.213333333333
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 54.0
+Area: 176.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 150.72
+Area: 1808.64
+
+Figure: Ball
+Dimension: 3
+Side surface area: 50.24
+Base area: None
+Volume: 33.49333333333333
+Height: None
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 34.0
+Area: 56.435804238089844
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 33.0
+Area: 103.18430113151904
+
+Figure: Circle
+Dimension: 2
+Petimeter: 119.32000000000001
+Area: 1133.54
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 80.0
+Area: 399.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 60.0
+Area: 225.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 72.0
+Area: 132.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 68.0
+Area: 280.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 36.0
+Area: 77.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 16.0
+Area: 15.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 58.0
+Area: 262.1525478291854
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 36.0
+Area: 20.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 52.0
+Area: 25.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 38.0
+Area: 39.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 86.0
+Area: 450.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 4914.0
+Height: None
+Total surface area: 1770.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 54.0
+Area: 108.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 55.0
+Area: 117.70620204560166
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 487.5
+Base area: 270.6329386826371
+Volume: 1172.7427342914273
+Height: 13.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 36.0
+Area: 16.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 648.0
+Base area: 140.29611541307906
+Volume: 1122.3689233046325
+Height: 24.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 150.72
+Area: 1808.64
+
+Figure: Ball
+Dimension: 3
+Side surface area: 200.96
+Base area: None
+Volume: 267.94666666666666
+Height: None
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 63.0
+Area: 310.6748420776938
+
+Figure: Cone
+Dimension: 3
+Side surface area: 622.0036113421713
+Base area: 615.7521601035994
+Volume: 410.50144006906623
+Height: 2.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 42.0
+Area: 29.020466915609752
+
+Figure: Ball
+Dimension: 3
+Side surface area: 3215.36
+Base area: None
+Volume: 17148.586666666666
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 5083.0
+Height: None
+Total surface area: 1822.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 54.0
+Area: 84.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 40.0
+Area: 91.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 270.0
+Base area: 173.20508075688772
+Volume: 519.6152422706632
+Height: 9.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1868.1252945734655
+Base area: 1256.6370614359173
+Volume: 9215.33845053006
+Height: 22.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 4800.0
+Height: None
+Total surface area: 1720.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 262.5
+Base area: 21.217622392718745
+Volume: 176.81351993932287
+Height: 25.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 76.0
+Area: 208.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1512.0
+Height: None
+Total surface area: 1278.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 56.0
+Area: 160.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 981.877129332999
+Base area: 907.9202768874502
+Volume: 2118.480646070717
+Height: 7.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 10.0
+Area: 6.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 270.0
+Base area: 97.42785792574934
+Volume: 389.7114317029973
+Height: 12.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 960.0
+Height: None
+Total surface area: 728.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 6.28
+Area: 3.14
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 68.0
+Area: 253.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 78.0
+Area: 374.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 322.10135278239875
+Base area: 113.09733552923255
+Volume: 603.1857894892403
+Height: 16.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 113.04
+Base area: None
+Volume: 113.03999999999999
+Height: None
+
+Figure: Cone
+Dimension: 3
+Side surface area: 34.700025027842585
+Base area: 3.141592653589793
+Volume: 11.519173063162574
+Height: 11.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 56.0
+Area: 171.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 78.0
+Height: None
+Total surface area: 142.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 60.0
+Area: 329.80423486264294
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2700.0
+Height: None
+Total surface area: 1416.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 72.0
+Area: 471.66328031764357
+
+Figure: Ball
+Dimension: 3
+Side surface area: 50.24
+Base area: None
+Volume: 33.49333333333333
+Height: None
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 34.0
+Area: 30.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 2122.64
+Base area: None
+Volume: 9198.106666666667
+Height: None
+
+Figure: Cone
+Dimension: 3
+Side surface area: 147.08559700795954
+Base area: 50.26548245743669
+Volume: 184.3067690106012
+Height: 11.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 74.0
+Area: 300.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 81.64
+Area: 530.66
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 20.0
+Area: 189.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 44.0
+Area: 85.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 150.72
+Area: 1808.64
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 35.0
+Area: 37.149706905176195
+
+Figure: Circle
+Dimension: 2
+Petimeter: 69.08
+Area: 379.94
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 798.0
+Height: None
+Total surface area: 958.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 10.0
+Area: 6.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 26.0
+Area: 36.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 48.0
+Area: 44.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 3234.0
+Height: None
+Total surface area: 1526.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 144.0
+Height: None
+Total surface area: 176.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 31.400000000000002
+Area: 78.5
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 30.0
+Area: 56.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 90.61738719311181
+Base area: 50.26548245743669
+Volume: 100.53096491487338
+Height: 6.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 50.0
+Area: 176.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 28.0
+Area: 32.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 157.0
+Area: 1962.5
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 58.0
+Area: 120.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 594.4338287545563
+Base area: 254.46900494077323
+Volume: 1611.6370312915637
+Height: 19.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 22.5
+Base area: 10.825317547305483
+Volume: 10.825317547305483
+Height: 3.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 50.0
+Area: 66.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 338.35988392928107
+Base area: 314.1592653589793
+Volume: 418.87902047863906
+Height: 4.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1003.4278410458487
+Base area: 907.9202768874502
+Volume: 2421.1207383665337
+Height: 8.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 88.0
+Area: 483.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 58.0
+Area: 305.6892179308647
+
+Figure: Ball
+Dimension: 3
+Side surface area: 12.56
+Base area: None
+Volume: 4.1866666666666665
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 200.96
+Base area: None
+Volume: 267.94666666666666
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 60.0
+Area: 84.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 54.0
+Area: 183.12837027615356
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 54.0
+Area: 162.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 56.0
+Area: 192.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 400.0
+Height: None
+Total surface area: 370.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 58.0
+Area: 432.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 4069.44
+Base area: None
+Volume: 24416.64
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1440.0
+Height: None
+Total surface area: 852.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 90.0
+Area: 506.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 666.9653735883892
+Base area: 452.3893421169302
+Volume: 1960.3538158400308
+Height: 13.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 759.0
+Base area: 229.06371930098402
+Volume: 1679.8006082072159
+Height: 22.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 4.442882938158366
+Base area: 3.141592653589793
+Volume: 1.0471975511965976
+Height: 1.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 46.0
+Area: 112.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 297.0
+Base area: 209.57814771583415
+Volume: 628.7344431475024
+Height: 9.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 15.0
+Area: 5.267826876426369
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 54.0
+Area: 144.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 76.0
+Area: 360.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 243.0
+Base area: 35.074028853269766
+Volume: 210.4441731196186
+Height: 18.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 50.0
+Area: 30.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 2826.0
+Base area: None
+Volume: 14130.0
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 50.0
+Area: 462.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 490.73246009060813
+Base area: 314.1592653589793
+Volume: 1256.637061435917
+Height: 12.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 72.0
+Area: 436.9645294529065
+
+Figure: Ball
+Dimension: 3
+Side surface area: 7234.56
+Base area: None
+Volume: 57876.479999999996
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 60.0
+Area: 275.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 75.36
+Area: 452.16
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 68.0
+Area: 240.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 6.28
+Area: 3.14
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 24.0
+Base area: 110.85125168440814
+Volume: 36.95041722813605
+Height: 1.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 75.36
+Area: 452.16
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 60.0
+Area: 200.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 15.0
+Base area: 10.825317547305483
+Volume: 7.216878364870322
+Height: 2.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 25.12
+Area: 50.24
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 68.0
+Area: 225.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 24.0
+Area: 11.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 38.0
+Area: 18.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 64.0
+Area: 625.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 68.0
+Area: 217.24233811822774
+
+Figure: Circle
+Dimension: 2
+Petimeter: 18.84
+Area: 28.26
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 40.0
+Area: 51.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 50.24
+Area: 200.96
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 57.0
+Area: 305.6831342606729
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 68.0
+Area: 225.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 36.0
+Area: 32.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 131.88
+Area: 1384.74
+
+Figure: Cone
+Dimension: 3
+Side surface area: 518.1247337366076
+Base area: 201.06192982974676
+Volume: 1273.3922222550627
+Height: 19.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 48.0
+Area: 28.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 38.0
+Area: 90.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1646.6291600332083
+Base area: 1134.1149479459152
+Volume: 7560.766319639434
+Height: 20.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1170.0
+Height: None
+Total surface area: 726.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 28.0
+Area: 75.65995355158879
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 162.0
+Base area: 35.074028853269766
+Volume: 140.29611541307906
+Height: 12.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 72.0
+Area: 315.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 69.0
+Area: 340.8562795218444
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 487.5
+Base area: 270.6329386826371
+Volume: 1172.7427342914273
+Height: 13.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 82.0
+Area: 119.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 200.96
+Base area: None
+Volume: 267.94666666666666
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 5538.96
+Base area: None
+Volume: 38772.72
+Height: None
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 157.5
+Base area: 190.9586015344687
+Volume: 318.2643358907811
+Height: 5.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 42.0
+Area: 104.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 48.0
+Area: 80.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 470.03307811087643
+Base area: 380.132711084365
+Volume: 1013.6872295583066
+Height: 8.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 270.0
+Base area: 97.42785792574934
+Volume: 389.7114317029973
+Height: 12.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 82.0
+Area: 119.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 189.0
+Base area: 84.87048957087498
+Volume: 254.6114687126249
+Height: 9.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 160.0
+Height: None
+Total surface area: 256.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 38.0
+Area: 90.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 16.0
+Area: 15.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 20.0
+Area: 9.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 297.0
+Base area: 35.074028853269766
+Volume: 257.2095449239783
+Height: 22.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 144.44
+Area: 1661.0600000000002
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 56.0
+Area: 340.05690550199364
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2400.0
+Height: None
+Total surface area: 1592.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 34.0
+Area: 30.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 78.0
+Area: 378.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 51.0
+Area: 100.94026698993817
+
+Figure: Circle
+Dimension: 2
+Petimeter: 150.72
+Area: 1808.64
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 9702.0
+Height: None
+Total surface area: 2730.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 18.84
+Area: 28.26
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 504.0
+Base area: 84.87048957087498
+Volume: 678.9639165669998
+Height: 24.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 32.0
+Area: 63.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 921.9490605400158
+Base area: 907.9202768874502
+Volume: 907.9202768874502
+Height: 3.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 56.0
+Area: 220.6114372601747
+
+Figure: Ball
+Dimension: 3
+Side surface area: 5538.96
+Base area: None
+Volume: 38772.72
+Height: None
+
+Figure: Circle
+Dimension: 2
+Petimeter: 113.04
+Area: 1017.36
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 6930.0
+Height: None
+Total surface area: 2214.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 12.56
+Base area: None
+Volume: 4.1866666666666665
+Height: None
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 240.0
+Base area: 43.30127018922193
+Volume: 230.9401076758503
+Height: 16.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 52.0
+Area: 133.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 36.0
+Height: None
+Total surface area: 72.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 12.56
+Area: 12.56
+
+Figure: Ball
+Dimension: 3
+Side surface area: 50.24
+Base area: None
+Volume: 33.49333333333333
+Height: None
+
+Figure: Circle
+Dimension: 2
+Petimeter: 12.56
+Area: 12.56
+
+Figure: Circle
+Dimension: 2
+Petimeter: 94.2
+Area: 706.5
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1834.5179595567502
+Base area: 1809.5573684677208
+Volume: 2412.743157956961
+Height: 4.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 40.0
+Area: 111.61653103371383
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 38.0
+Area: 84.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 5024.0
+Base area: None
+Volume: 33493.333333333336
+Height: None
+
+Figure: Cone
+Dimension: 3
+Side surface area: 69.18640136998266
+Base area: 3.141592653589793
+Volume: 23.03834612632515
+Height: 22.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2520.0
+Height: None
+Total surface area: 1266.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2280.0
+Height: None
+Total surface area: 1228.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 977.999540755706
+Base area: 452.3893421169302
+Volume: 3468.3182895631317
+Height: 23.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 78.0
+Area: 378.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 60.0
+Area: 377.16872882040474
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 52.0
+Area: 16.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 119.32000000000001
+Area: 1133.54
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1710.0
+Height: None
+Total surface area: 902.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1140.748587675493
+Base area: 706.8583470577034
+Volume: 4476.769531365455
+Height: 19.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2100.0
+Height: None
+Total surface area: 1418.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 50.24
+Area: 200.96
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 34.0
+Area: 52.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 60.0
+Area: 144.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 12.0
+Area: 8.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 192.0
+Height: None
+Total surface area: 440.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: None
+Area: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 12.56
+Base area: None
+Volume: 4.1866666666666665
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 32.0
+Area: 64.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 39.0
+Height: None
+Total surface area: 110.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 92.0
+Area: 528.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 100.48
+Area: 803.84
+
+Figure: Circle
+Dimension: 2
+Petimeter: 125.60000000000001
+Area: 1256.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 70.0
+Area: 280.28869046038943
+
+Figure: Cone
+Dimension: 3
+Side surface area: 218.60609440286578
+Base area: 28.274333882308138
+Volume: 216.76989309769573
+Height: 23.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 6079.04
+Base area: None
+Volume: 44579.62666666666
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 615.44
+Base area: None
+Volume: 1436.0266666666666
+Height: None
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 600.0
+Base area: 270.6329386826371
+Volume: 1443.3756729740644
+Height: 16.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 52.0
+Area: 64.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 131.88
+Area: 1384.74
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 40.0
+Area: 99.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 462.0
+Height: None
+Total surface area: 458.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 50.0
+Area: 54.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2898.0
+Height: None
+Total surface area: 1494.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 34.0
+Area: 65.10824320570578
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 570.0
+Base area: 173.20508075688772
+Volume: 1096.965511460289
+Height: 19.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 267.16470393500384
+Base area: 201.06192982974676
+Volume: 469.14450293607575
+Height: 7.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 60.0
+Area: 321.79069284241274
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1596.0
+Height: None
+Total surface area: 928.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 1808.64
+Base area: None
+Volume: 7234.5599999999995
+Height: None
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 165.0
+Base area: 43.30127018922193
+Volume: 158.77132402714707
+Height: 11.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 62.0
+Area: 198.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1246.8007223263787
+Base area: 907.9202768874502
+Volume: 4842.241476733067
+Height: 16.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 50.24
+Area: 200.96
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 40.0
+Area: 99.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 432.0
+Base area: 140.29611541307906
+Volume: 748.245948869755
+Height: 16.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 34.0
+Area: 16.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 90.0
+Area: 500.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 119.32000000000001
+Area: 1133.54
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 32.0
+Area: 28.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 46.0
+Area: 308.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 6644.240000000001
+Base area: None
+Volume: 50939.17333333333
+Height: None
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 68.0
+Area: 225.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 66.0
+Area: 216.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 462.0
+Base area: 209.57814771583415
+Volume: 978.0313560072259
+Height: 14.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 157.0
+Area: 1962.5
+
+Figure: Circle
+Dimension: 2
+Petimeter: 157.0
+Area: 1962.5
+
+Figure: Circle
+Dimension: 2
+Petimeter: 50.24
+Area: 200.96
+
+Figure: Circle
+Dimension: 2
+Petimeter: 37.68
+Area: 113.04
+
+Figure: Circle
+Dimension: 2
+Petimeter: 31.400000000000002
+Area: 78.5
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 54.0
+Area: 65.31408490899952
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 660.0
+Height: None
+Total surface area: 544.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 69.0
+Area: 221.80861682991488
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 225.0
+Base area: 15.588457268119894
+Volume: 129.90381056766577
+Height: 25.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 60.0
+Area: 209.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 3822.0
+Height: None
+Total surface area: 1498.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 50.0
+Area: 154.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 69.08
+Area: 379.94
+
+Figure: Ball
+Dimension: 3
+Side surface area: 803.84
+Base area: None
+Volume: 2143.5733333333333
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 60.0
+Area: 216.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 486.7948250240089
+Base area: 153.93804002589985
+Volume: 1077.566280181299
+Height: 21.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 106.76
+Area: 907.46
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 198.0
+Base area: 15.588457268119894
+Volume: 114.31535329954589
+Height: 22.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 36.0
+Area: 175.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1144.0
+Height: None
+Total surface area: 670.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 48.0
+Area: 108.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 924.0
+Height: None
+Total surface area: 656.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 2461.76
+Base area: None
+Volume: 11488.213333333333
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 54.0
+Area: 500.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 44.0
+Area: 40.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 20.0
+Area: 24.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 490.0884539600077
+Base area: 452.3893421169302
+Volume: 753.9822368615503
+Height: 5.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1056.0
+Height: None
+Total surface area: 712.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 200.96
+Base area: None
+Volume: 267.94666666666666
+Height: None
+
+Figure: Ball
+Dimension: 3
+Side surface area: 113.04
+Base area: None
+Volume: 113.03999999999999
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 4032.0
+Height: None
+Total surface area: 1528.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 66.0
+Base area: 52.39453692895854
+Volume: 69.8593825719447
+Height: 4.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 84.0
+Base area: 6.928203230275509
+Volume: 32.33161507461904
+Height: 14.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 81.64
+Area: 530.66
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 432.0
+Base area: 110.85125168440814
+Volume: 665.1075101064489
+Height: 18.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1512.0
+Height: None
+Total surface area: 1278.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 38.0
+Area: 88.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 12.56
+Base area: None
+Volume: 4.1866666666666665
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 34.0
+Area: 60.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 1690.4045685610865
+Base area: 1134.1149479459152
+Volume: 7938.804635621406
+Height: 21.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 7234.56
+Base area: None
+Volume: 57876.479999999996
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 8125.0
+Height: None
+Total surface area: 2550.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 68.0
+Area: 240.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 42.0
+Area: 98.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 3215.36
+Base area: None
+Volume: 17148.586666666666
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2550.0
+Height: None
+Total surface area: 1150.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 3388.0
+Height: None
+Total surface area: 1408.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 2419.4852986526134
+Base area: 1963.4954084936207
+Volume: 11780.972450961724
+Height: 18.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 48.0
+Area: 143.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1728.0
+Height: None
+Total surface area: 984.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 69.18640136998266
+Base area: 3.141592653589793
+Volume: 23.03834612632515
+Height: 22.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 72.0
+Area: 308.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 138.16
+Area: 1519.76
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1400.0
+Height: None
+Total surface area: 820.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 54.0
+Area: 289.628274155136
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 84.0
+Area: 432.0
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 270.0
+Base area: 62.35382907247958
+Volume: 311.76914536239786
+Height: 15.0
+
+Figure: Circle
+Dimension: 2
+Petimeter: 100.48
+Area: 803.84
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 58.0
+Area: 182.62461498932723
+
+Figure: Ball
+Dimension: 3
+Side surface area: 5538.96
+Base area: None
+Volume: 38772.72
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 54.0
+Area: 176.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 21.0
+Area: 22.495499549909976
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 54.0
+Area: 41.785714285714285
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 5850.0
+Height: None
+Total surface area: 2018.0
+
+Figure: Cone
+Dimension: 3
+Side surface area: 922.7515976094439
+Base area: 804.247719318987
+Volume: 2412.743157956961
+Height: 9.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 66.0
+Area: 35.707142142714254
+
+Figure: Ball
+Dimension: 3
+Side surface area: 314.0
+Base area: None
+Volume: 523.3333333333334
+Height: None
+
+Figure: Circle
+Dimension: 2
+Petimeter: 18.84
+Area: 28.26
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 50.0
+Area: 296.7950299320855
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 828.0
+Base area: 229.06371930098402
+Volume: 1832.509754407872
+Height: 24.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 200.96
+Base area: None
+Volume: 267.94666666666666
+Height: None
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 32.0
+Area: 168.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 5538.96
+Base area: None
+Volume: 38772.72
+Height: None
+
+Figure: Circle
+Dimension: 2
+Petimeter: 87.92
+Area: 615.44
+
+Figure: TriangularPyramid
+Dimension: 3
+Side surface area: 60.0
+Base area: 10.825317547305483
+Volume: 28.867513459481287
+Height: 8.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 56.0
+Area: 187.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 51.0
+Area: 252.6452404063849
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 2736.0
+Height: None
+Total surface area: 1238.0
+
+Figure: Parallelogram
+Dimension: 2
+Petimeter: 74.0
+Area: 342.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 2461.76
+Base area: None
+Volume: 11488.213333333333
+Height: None
+
+Figure: Cone
+Dimension: 3
+Side surface area: 568.8451897433217
+Base area: 530.929158456675
+Volume: 884.8819307611251
+Height: 5.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 48.0
+Area: 135.0
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1872.0
+Height: None
+Total surface area: 912.0
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 34.0
+Area: 42.0
+
+Figure: Rectangle
+Dimension: 2
+Petimeter: 46.0
+Area: 22.0
+
+Figure: Trapeze
+Dimension: 2
+Petimeter: 56.0
+Area: 229.58891834879884
+
+Figure: Ball
+Dimension: 3
+Side surface area: 452.16
+Base area: None
+Volume: 904.3199999999999
+Height: None
+
+Figure: RectangularParallelepiped
+Dimension: 3
+Side surface area: None
+Base area: None
+Volume: 1071.0
+Height: None
+Total surface area: 942.0
+
+Figure: Ball
+Dimension: 3
+Side surface area: 6079.04
+Base area: None
+Volume: 44579.62666666666
+Height: None
+
+Figure: QuadrangularPyramid
+Dimension: 2
+Petimeter: 48.0
+Area: 80.0
+
