@@ -6,6 +6,15 @@ def t2f(x, n):
         a = (x ** (2*k + 1)) / f(2*k + 1)
     return a
 
+def t2f_generator(x, n):
+    a = x
+    for k in range(2, n + 1):
+        a = (x ** (2*k + 1)) / f(2*k + 1)
+        yield a
+
 x = int(input('Введіть значення х: '))
 n = int(input('Введіть номер члена почлідовності: '))
 print(t2f(x, n))
+
+s = list(t2f_generator(x, n))
+print(s[n-2])
