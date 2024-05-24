@@ -21,6 +21,21 @@ class Graphics:
         self.explosion_images = []
         self.scaled_explosion_images = []
         self.load_explosion_images()
+        self.engine_gif = self.load_engine_gif()
+
+    def load_engine_gif(self):
+        engine_gif = Image.open("Engine.gif")
+        engine_frames = []
+        try:
+            while True:
+                frame = engine_gif.copy()
+                scaled_size = (50, 15)
+                frame = frame.resize(scaled_size, Image.Resampling.LANCZOS)
+                engine_frames.append(ImageTk.PhotoImage(frame))
+                engine_gif.seek(len(engine_frames))
+        except EOFError:
+            pass
+        return engine_frames
 
     def load_explosion_images(self):
         explosion = Image.open("explosion.gif")
@@ -31,7 +46,7 @@ class Graphics:
             explosion.seek(frame)
             frame_image = explosion.copy()
             self.explosion_images.append(ImageTk.PhotoImage(frame_image))
-            scaled_frame_image = frame_image.resize(scaled_size, Image.ANTIALIAS)
+            scaled_frame_image = frame_image.resize(scaled_size, Image.Resampling.LANCZOS)
             self.scaled_explosion_images.append(ImageTk.PhotoImage(scaled_frame_image))
 
     def create_and_remove_explosion(self, x, y):

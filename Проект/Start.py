@@ -10,7 +10,7 @@ class Start:
         self.root.title("Zenitka Game")
         self.root.geometry("1000x600")
         background_image = Image.open("background2.jpg")
-        background_image = background_image.resize((1000, 600), Image.ANTIALIAS)
+        background_image = background_image.resize((1000, 600), Image.Resampling.LANCZOS)
         background_photo = ImageTk.PhotoImage(background_image)
         background_label = tk.Label(self.root, image=background_photo)
         background_label.image = background_photo

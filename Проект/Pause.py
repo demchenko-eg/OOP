@@ -19,7 +19,7 @@ class Pause:
             self.window.title("Pause")
             self.window.geometry("500x300")
             background_image = Image.open("background3.jpg")
-            background_image = background_image.resize((500, 300), Image.ANTIALIAS)
+            background_image = background_image.resize((500, 300), Image.Resampling.LANCZOS)
             background_photo = ImageTk.PhotoImage(background_image)
             background_label = tk.Label(self.window, image=background_photo)
             background_label.place(x=0, y=0, relwidth=1, relheight=1)
