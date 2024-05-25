@@ -40,9 +40,9 @@ class Game:
 
     def create_aircraft(self):
         if not self.paused:
-            speed = random.uniform(5, 13)
+            speed = random.uniform(8, 13)
             aircraft = Aircraft(self, speed, self.aircraft_sound)
-            self.create_aircraft_timer = self.root.after(random.randint(100, 10000), self.create_aircraft)
+            self.create_aircraft_timer = self.root.after(random.randint(100, 11000), self.create_aircraft)
 
     def fire_bullet(self, event):
         if not self.paused and time.time() - self.last_shot_time >= 1.2:

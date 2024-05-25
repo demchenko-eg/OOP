@@ -2,6 +2,7 @@ import tkinter as tk
 import pygame
 import random
 
+from Engine import Engine
 
 class Aircraft:
     def __init__(self, game, speed, sound):
@@ -15,53 +16,41 @@ class Aircraft:
         self.sound.play()
         self.game.aircrafts.append(self)
         self.game.aircraft_sounds[self.id] = self.sound
+        self.crashed = False
+        self.engine = Engine(self)
+        self.iteration_count = 0
 
-        self.engine_images = self.game.graphics.engine_gif
-        self.engine_id = None
-        self.animate_engine(0)
-    
     def get_engine_position(self):
         coords = self.game.canvas.coords(self.id)
         if not coords:
             return None
-        a_x1, a_y1 = self.game.canvas.coords(self.id)
+        a_x1, a_y1 = coords
         engine_x = a_x1 + 122
         engine_y = a_y1 + self.image.height() // 2 + 5
         return engine_x, engine_y
-    
-    def animate_engine(self, frame):
-        position = self.get_engine_position()
-        if position:
-            engine_x, engine_y = position
-            if not self.engine_id:
-                self.engine_id = self.game.canvas.create_image(engine_x, engine_y, anchor=tk.CENTER, image=self.engine_images[frame])
-            else:
-                self.game.canvas.coords(self.engine_id, engine_x, engine_y)
-                self.game.canvas.itemconfig(self.engine_id, image=self.engine_images[frame])
-            frame = (frame + 1) % len(self.engine_images)
-            self.game.root.after(100, self.animate_engine, frame)
-        else:
-            if self.engine_id:
-                self.game.canvas.delete(self.engine_id)
-                self.engine_id = None
 
     def move(self):
         if self.game.paused:
             return
         if self.game.canvas.coords(self.id):
-            self.game.canvas.move(self.id, -self.speed, 0)
+            self.iteration_count += 1
+            dx = -self.speed
+            dy = 0
+            if self.crashed:
+                dy = random.uniform(1, 2)
+            self.game.canvas.move(self.id, dx, dy)
             position = self.get_engine_position()
             if position:
                 engine_x, engine_y = position
-                self.game.canvas.coords(self.engine_id, engine_x, engine_y)
+                if self.crashed:
+                    self.engine.animate_crashed(engine_x, engine_y)
+                else:
+                    self.engine.animate(engine_x, engine_y)
             if self.check_off_screen():
-                self.game.missed += 1
-                self.game.update_missed()
-                self.sound.stop()
-                self.game.canvas.delete(self.id)
-                if self.engine_id:
-                    self.game.canvas.delete(self.engine_id)
-                self.game.aircrafts.remove(self)
+                if not self.crashed:
+                    self.game.missed += 1
+                    self.game.update_missed()
+                self.remove_aircraft()
 
     def check_off_screen(self):
         coords = self.game.canvas.coords(self.id)
@@ -69,3 +58,9 @@ class Aircraft:
             return False
         a_x1, _ = coords
         return a_x1 < -133
+
+    def remove_aircraft(self):
+        self.sound.stop()
+        self.game.canvas.delete(self.id)
+        self.engine.remove()
+        self.game.aircrafts.remove(self)

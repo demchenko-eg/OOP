@@ -22,6 +22,22 @@ class Graphics:
         self.scaled_explosion_images = []
         self.load_explosion_images()
         self.engine_gif = self.load_engine_gif()
+        self.crashed_engine_gif = self.load_crashed_engine_gif()
+        self.smoke_gif = self.load_smoke_gif()
+    
+    def load_smoke_gif(self):
+        smoke_gif = Image.open("Smoke.gif")
+        smoke_frames = []
+        try:
+            while True:
+                frame = smoke_gif.copy()
+                scaled_size = (165, 44)
+                frame = frame.resize(scaled_size, Image.Resampling.LANCZOS)
+                smoke_frames.append(ImageTk.PhotoImage(frame))
+                smoke_gif.seek(len(smoke_frames))
+        except EOFError:
+            pass
+        return smoke_frames
 
     def load_engine_gif(self):
         engine_gif = Image.open("Engine.gif")
@@ -36,6 +52,20 @@ class Graphics:
         except EOFError:
             pass
         return engine_frames
+
+    def load_crashed_engine_gif(self):
+        crashed_engine_gif = Image.open("Crashed engine.gif")
+        crashed_engine_frames = []
+        try:
+            while True:
+                frame = crashed_engine_gif.copy()
+                scaled_size = (50, 15)
+                frame = frame.resize(scaled_size, Image.Resampling.LANCZOS)
+                crashed_engine_frames.append(ImageTk.PhotoImage(frame))
+                crashed_engine_gif.seek(len(crashed_engine_frames))
+        except EOFError:
+            pass
+        return crashed_engine_frames
 
     def load_explosion_images(self):
         explosion = Image.open("explosion.gif")

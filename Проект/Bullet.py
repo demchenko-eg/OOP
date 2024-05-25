@@ -1,4 +1,5 @@
 import math
+import pygame
 
 
 class Bullet:
@@ -29,17 +30,22 @@ class Bullet:
                     self.game.score += 1
                     self.game.graphics.create_collision_point(bx, by)
                     self.game.canvas.delete(self.id)
-                    self.game.canvas.delete(aircraft.id)
-                    self.game.aircrafts.remove(aircraft)
+                    self.game.aircraft_sounds[aircraft.id].stop()
+                    aircraft.sound = pygame.mixer.Sound("Crashed aircraft.mp3")
+                    aircraft.sound.play()
+                    aircraft.crashed = True
+                    aircraft.engine.remove()
+                    aircraft.engine.animate_crashed(0, 0)
+                    aircraft.engine.animate_smoke(0)
                     self.game.update_score()
                     self.game.crash_sound.play()
-                    self.game.aircraft_sounds[aircraft.id].stop()
                     return True
             else:
                 self.game.canvas.delete(aircraft.id)
                 self.game.aircrafts.remove(aircraft)
                 self.game.misses += 1
                 self.game.update_misses()
+        return False
 
     def move(self):
         if self.game.paused:
