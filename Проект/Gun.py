@@ -14,9 +14,9 @@ class Gun:
             return
         key = event.keysym
         if key == 'Left':
-            self.rotate(-5)
+            self.rotate(-4)
         elif key == 'Right':
-            self.rotate(5)
+            self.rotate(4)
 
     def rotate(self, angle):
         cx, cy = 427, 570

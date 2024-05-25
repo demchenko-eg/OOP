@@ -30,6 +30,7 @@ class Game:
         self.update_game_timer = None
         self.pause = Pause(self)
         self.graphics = Graphics(self)
+        self.explosions = []
         self.create_aircraft()
         self.zenitka = Zenitka(self)
         self.gun = Gun(self)

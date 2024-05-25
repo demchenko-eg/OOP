@@ -44,6 +44,7 @@ class Aircraft:
                 engine_x, engine_y = position
                 if self.crashed:
                     self.engine.animate_crashed(engine_x, engine_y)
+                    self.engine.animate_smoke(0)
                 else:
                     self.engine.animate(engine_x, engine_y)
             if self.check_off_screen():
@@ -57,7 +58,7 @@ class Aircraft:
         if not coords:
             return False
         a_x1, _ = coords
-        return a_x1 < -133
+        return a_x1 < -250
 
     def remove_aircraft(self):
         self.sound.stop()

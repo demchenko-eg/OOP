@@ -13,8 +13,8 @@ class Pause:
         pygame.mixer.pause()
         self.game.root.after_cancel(self.game.update_game_timer)
         self.game.root.after_cancel(self.game.create_aircraft_timer)
+        self.game.paused = True
         if not self.window:
-            self.game.paused = True
             self.window = tk.Toplevel(self.game.root)
             self.window.title("Pause")
             self.window.geometry("500x300")
@@ -46,3 +46,13 @@ class Pause:
             for bullet in self.game.bullets[:]:
                 if self.game.canvas.coords(bullet.id):
                     bullet.move()
+            for aircraft in self.game.aircrafts[:]:
+                if self.game.canvas.coords(aircraft.id):
+                    aircraft.move()
+                    if aircraft.crashed:
+                        aircraft.engine.animate_crashed(*aircraft.get_engine_position())
+                        aircraft.engine.animate_smoke(aircraft.engine.current_smoke_frame)  # Continue smoke animation if crashed
+            for explosion in self.game.explosions:
+                explosion_id, frame, max_frames, scaled = explosion
+                self.game.graphics.animate_explosion(explosion_id, frame, max_frames, scaled)
+            self.game.explosions.clear()

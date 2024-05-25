@@ -31,7 +31,7 @@ class Graphics:
         try:
             while True:
                 frame = smoke_gif.copy()
-                scaled_size = (165, 44)
+                scaled_size = (165, 45)
                 frame = frame.resize(scaled_size, Image.Resampling.LANCZOS)
                 smoke_frames.append(ImageTk.PhotoImage(frame))
                 smoke_gif.seek(len(smoke_frames))
@@ -85,6 +85,9 @@ class Graphics:
         self.animate_explosion(explosion_id, 0, half_frames, scaled=True)
 
     def animate_explosion(self, explosion_id, frame, max_frames, scaled=False):
+        if self.game.paused:
+            self.game.explosions.append((explosion_id, frame, max_frames, scaled))
+            return
         images = self.scaled_explosion_images if scaled else self.explosion_images
         if frame < max_frames:
             self.game.canvas.itemconfig(explosion_id, image=images[frame])
