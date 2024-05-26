@@ -8,12 +8,18 @@ class Graphics:
         self.background_image = Image.open("background.png")
         self.background_photo = ImageTk.PhotoImage(self.background_image.resize((1010, 610)))
         self.game.canvas.create_image(0, 0, anchor=tk.NW, image=self.background_photo)
-        self.score_label = tk.Label(game.root, text="Збито: 0", font=("Helvetica", 16))
-        self.score_label.place(x=800, y=20)
-        self.misses_label = tk.Label(game.root, text="Промахів: 0", font=("Helvetica", 16))
-        self.misses_label.place(x=800, y=50)
-        self.missed_label = tk.Label(game.root, text="Пропущено: 0", font=("Helvetica", 16))
-        self.missed_label.place(x=800, y=80)
+        self.score_label = tk.Label(game.root, text="Збито: 0", font=("Helvetica", 12))
+        self.score_label.place(x=780, y=20)
+        self.shots_label = tk.Label(game.root, text="Пострілів: 0", font=("Helvetica", 12))
+        self.shots_label.place(x=780, y=42)
+        self.misses_label = tk.Label(game.root, text="Промахів: 0", font=("Helvetica", 12))
+        self.misses_label.place(x=780, y=64)
+        self.missed_label = tk.Label(game.root, text="Пропущено: 0", font=("Helvetica", 12))
+        self.missed_label.place(x=780, y=86)
+        self.efficiency_label = tk.Label(game.root, text="Ефективність гри: undefinited", font=("Helvetica", 12))
+        self.efficiency_label.place(x=780, y=108)
+        self.recharge_label = tk.Label(game.root, text="", font=("Helvetica", 12))
+        self.recharge_label.place(x=780, y=130)
         self.pause_button = tk.Button(game.root, text="Пауза", command=game.pause.pause_game, width=10, height=1, font=("Helvetica", 8))
         self.pause_button.place(relx=0.05, rely=0.04, anchor=tk.CENTER)
         self.exit_button = tk.Button(game.root, text="Вихід", command=game.root.destroy, width=10, height=1, font=("Helvetica", 8))
@@ -24,7 +30,7 @@ class Graphics:
         self.engine_gif = self.load_engine_gif()
         self.crashed_engine_gif = self.load_crashed_engine_gif()
         self.smoke_gif = self.load_smoke_gif()
-    
+
     def load_smoke_gif(self):
         smoke_gif = Image.open("Smoke.gif")
         smoke_frames = []
@@ -99,3 +105,9 @@ class Graphics:
         explosion_id = self.game.canvas.create_image(x, y, anchor=tk.CENTER, image=self.explosion_images[0])
         half_frames = len(self.explosion_images) // 2
         self.animate_explosion(explosion_id, 0, half_frames, scaled=False)
+
+    def update_recharge_timer(self, time_remaining):
+        if time_remaining > 0:
+            self.recharge_label.config(text=f"Перезарядка: {time_remaining:.1f} сек.")
+        else:
+            self.recharge_label.config(text="")

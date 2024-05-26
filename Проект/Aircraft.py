@@ -4,6 +4,7 @@ import random
 
 from Engine import Engine
 
+
 class Aircraft:
     def __init__(self, game, speed, sound):
         self.game = game
@@ -14,6 +15,7 @@ class Aircraft:
         self.id = self.game.canvas.create_image(1000, y, anchor=tk.NW, image=self.image)
         self.sound = pygame.mixer.Sound("Aircraft sound.mp3")
         self.sound.play()
+        self.crashed_sound = None
         self.game.aircrafts.append(self)
         self.game.aircraft_sounds[self.id] = self.sound
         self.crashed = False
@@ -62,6 +64,20 @@ class Aircraft:
 
     def remove_aircraft(self):
         self.sound.stop()
+        if self.crashed:
+            coords = self.game.canvas.coords(self.id)
+            self.play_smash_sound(coords)
         self.game.canvas.delete(self.id)
         self.engine.remove()
         self.game.aircrafts.remove(self)
+
+    def play_smash_sound(self, coords):
+        if coords:
+            _, y = coords
+            delay = (600 + 20 - y) * 6
+            self.game.root.after(int(delay), self.play_and_stop_smash_sound)
+
+    def play_and_stop_smash_sound(self):
+        self.game.smash_sound.play()
+        if self.crashed_sound:
+            self.crashed_sound.stop()

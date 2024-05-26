@@ -27,24 +27,18 @@ class Bullet:
                 aircraft_radius = max(aircraft.image.width(), aircraft.image.height()) / 2
                 distance = math.hypot(bullet_center[0] - aircraft_center[0], bullet_center[1] - aircraft_center[1])
                 if distance < bullet_radius + aircraft_radius:
-                    self.game.score += 1
                     self.game.graphics.create_collision_point(bx, by)
                     self.game.canvas.delete(self.id)
-                    self.game.aircraft_sounds[aircraft.id].stop()
-                    aircraft.sound = pygame.mixer.Sound("Crashed aircraft.mp3")
-                    aircraft.sound.play()
-                    aircraft.crashed = True
-                    aircraft.engine.remove()
-                    aircraft.engine.animate_crashed(0, 0)
-                    aircraft.engine.animate_smoke(0)
-                    self.game.update_score()
                     self.game.crash_sound.play()
+                    if not aircraft.crashed:
+                        self.game.score += 1
+                        self.game.update_score()
+                        self.game.aircraft_sounds[aircraft.id].stop()
+                        aircraft.crashed_sound = pygame.mixer.Sound("Crashed aircraft.mp3")
+                        aircraft.crashed_sound.play()
+                        aircraft.crashed = True
+                        aircraft.engine.remove()
                     return True
-            else:
-                self.game.canvas.delete(aircraft.id)
-                self.game.aircrafts.remove(aircraft)
-                self.game.misses += 1
-                self.game.update_misses()
         return False
 
     def move(self):
@@ -56,7 +50,7 @@ class Bullet:
         if 0 < bx < 1000 and 0 < by < 600:
             self.game.canvas.move(self.id, dx, dy)
             if not self.check_collision():
-                self.game.root.after(30, self.move)
+                self.game.root.after(20, self.move)
         else:
             self.game.canvas.delete(self.id)
             self.game.bullets.remove(self)

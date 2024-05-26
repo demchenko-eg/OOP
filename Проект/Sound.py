@@ -9,3 +9,4 @@ class Sound:
         self.crash_sound = pygame.mixer.Sound("Crash.mp3")
         self.aircraft_sound = pygame.mixer.Sound("Aircraft sound.mp3")
         self.crashed_aircraft_sound = pygame.mixer.Sound("Crashed aircraft.mp3")
+        self.smash_sound = pygame.mixer.Sound("Smash.mp3")

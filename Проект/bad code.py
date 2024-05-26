@@ -59,7 +59,7 @@ class Game:
             self.pause_window.title("Pause")
             self.pause_window.geometry("500x300")
             background_image = Image.open("background3.jpg")
-            background_image = background_image.resize((500, 300), Image.ANTIALIAS)
+            background_image = background_image.resize((500, 300), Image.Resampling.LANCZOS)
             background_photo = ImageTk.PhotoImage(background_image)
             background_label = tk.Label(self.pause_window, image=background_photo)
             background_label.place(x=0, y=0, relwidth=1, relheight=1)
@@ -107,7 +107,7 @@ class Game:
             frame_image = explosion.copy()
             self.explosion_images.append(ImageTk.PhotoImage(frame_image))
             
-            scaled_frame_image = frame_image.resize(scaled_size, Image.ANTIALIAS)
+            scaled_frame_image = frame_image.resize(scaled_size, Image.Resampling.LANCZOS)
             self.scaled_explosion_images.append(ImageTk.PhotoImage(scaled_frame_image))
 
     def create_aircraft(self):
@@ -279,7 +279,7 @@ if __name__ == "__main__":
     root.title("Zenitka Game")
     root.geometry("1000x600")
     background_image = Image.open("background2.jpg")
-    background_image = background_image.resize((1000, 600), Image.ANTIALIAS)
+    background_image = background_image.resize((1000, 600), Image.Resampling.LANCZOS)
     background_photo = ImageTk.PhotoImage(background_image)
     background_label = tk.Label(root, image=background_photo)
     background_label.image = background_photo

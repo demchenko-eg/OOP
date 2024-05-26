@@ -1,6 +1,7 @@
 import tkinter as tk
 import random
 
+
 class Engine:
     def __init__(self, aircraft):
         self.aircraft = aircraft
@@ -73,12 +74,12 @@ class Engine:
             engine_x, engine_y = position
             if not self.smoke_id:
                 self.smoke_id = self.game.canvas.create_image(engine_x-30, engine_y, anchor=tk.CENTER, image=self.smoke_images[frame])
-                self.smoke_id2 = self.game.canvas.create_image(engine_x, engine_y, anchor=tk.CENTER, image=self.smoke_images[frame])  # Створення другого диму
+                self.smoke_id2 = self.game.canvas.create_image(engine_x, engine_y, anchor=tk.CENTER, image=self.smoke_images[frame])
             else:
                 self.game.canvas.coords(self.smoke_id, engine_x - 30 + random.uniform(0, 50), engine_y)
-                self.game.canvas.coords(self.smoke_id2, engine_x + random.uniform(0, 50), engine_y)  # Координати для другого диму
+                self.game.canvas.coords(self.smoke_id2, engine_x + random.uniform(0, 50), engine_y)
                 self.game.canvas.itemconfig(self.smoke_id, image=self.smoke_images[frame])
-                self.game.canvas.itemconfig(self.smoke_id2, image=self.smoke_images[frame])  # Зміна кадру другого диму
+                self.game.canvas.itemconfig(self.smoke_id2, image=self.smoke_images[frame])
             frame = (frame + 1) % len(self.smoke_images)
             self.smoke_animation = self.game.root.after(100, self.animate_smoke, frame)
         else:
